@@ -5,5 +5,5 @@ python Evaluation/generation_eval.py \
     --model gpt-4o-mini \
     --base_url https://api.openai.com/v1 \
     --embedding_model BAAI/bge-large-en-v1.5 \
-    --data_file 395-scripts/lightrag/gpt-4o-mini/results/medical_results.json \
-    --output_file 395-scripts/lightrag/gpt-4o-mini/results/medical_eval.json
+    --data_file 395-scripts/lightrag/gpt-4o-mini/results/novel_results.json \
+    --output_file 395-scripts/lightrag/gpt-4o-mini/results/novel_eval.json
