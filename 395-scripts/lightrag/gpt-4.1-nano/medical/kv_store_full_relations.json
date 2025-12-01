@@ -1,0 +1,9209 @@
+{
+  "doc-3d7a4f05339f0e3f3870b407d21d9c8a": {
+    "relation_pairs": [
+      [
+        "Cancer Subtype",
+        "Cancer Treatment Options"
+      ],
+      [
+        "Liver",
+        "Lymphatic System"
+      ],
+      [
+        "Adrenal Tumor",
+        "Malignant"
+      ],
+      [
+        "Nicotine",
+        "Nicotine Withdrawal"
+      ],
+      [
+        "Clinical Trials",
+        "Treatment"
+      ],
+      [
+        "B-cell Lymphoblasts",
+        "B-cell Lymphocytes"
+      ],
+      [
+        "Blood Vessels",
+        "Invasive Breast Cancer"
+      ],
+      [
+        "Clinical Trials",
+        "Concept"
+      ],
+      [
+        "Comprehensive Examination",
+        "Panendoscopy"
+      ],
+      [
+        "Lung Carcinoma",
+        "Lungs"
+      ],
+      [
+        "Fertility",
+        "Systemic Therapy"
+      ],
+      [
+        "Glioma",
+        "Symptoms"
+      ],
+      [
+        "Resection",
+        "Tumors"
+      ],
+      [
+        "NCCN Cancer Centers",
+        "clinicaltrials.gov"
+      ],
+      [
+        "Chemotherapy",
+        "Interval Cytoreductive Surgery"
+      ],
+      [
+        "Radiation",
+        "Thyroid Cancer"
+      ],
+      [
+        "Blood Vessels",
+        "Tumor"
+      ],
+      [
+        "Tumor",
+        "develops in"
+      ],
+      [
+        "Hepatitis C",
+        "Pre-treatment"
+      ],
+      [
+        "Monitoring",
+        "Neck Ultrasound"
+      ],
+      [
+        "Family History",
+        "Health issues"
+      ],
+      [
+        "Antimetabolites",
+        "Chemotherapy"
+      ],
+      [
+        "IV Contrast",
+        "Imaging"
+      ],
+      [
+        "Cancer Cells",
+        "Lymphovascular Invasion"
+      ],
+      [
+        "Cancer",
+        "Chemotherapy"
+      ],
+      [
+        "Hypomethylating Agents",
+        "Reactivate"
+      ],
+      [
+        "Bladder",
+        "Urinary System"
+      ],
+      [
+        "High-Dose Chemotherapy",
+        "Stem Cell Rescue"
+      ],
+      [
+        "Anal Cancer",
+        "High-Resolution Anoscopy"
+      ],
+      [
+        "Head and Neck Cancer",
+        "Mouth Cancer"
+      ],
+      [
+        "Biomarker",
+        "Proteins"
+      ],
+      [
+        "Biomarker",
+        "Cancer"
+      ],
+      [
+        "Donor Matching",
+        "HLA Typing"
+      ],
+      [
+        "Biopsy",
+        "DNA Mutations"
+      ],
+      [
+        "Prostate Cancer",
+        "Team"
+      ],
+      [
+        "Cervical Cancer",
+        "HPV Infection"
+      ],
+      [
+        "Primary Care Doctor",
+        "Survivorship"
+      ],
+      [
+        "Lymphoma",
+        "Vitreous"
+      ],
+      [
+        "Cancer Treatment",
+        "Multidisciplinary Care"
+      ],
+      [
+        "Follow-up Exams",
+        "Skin Exams"
+      ],
+      [
+        "Breast Cancer",
+        "HER2"
+      ],
+      [
+        "Examination Tool",
+        "Scope"
+      ],
+      [
+        "Examinations Under Anesthesia",
+        "bladder"
+      ],
+      [
+        "Healthcare Provider",
+        "Patient"
+      ],
+      [
+        "Leukemia",
+        "Treatment"
+      ],
+      [
+        "Lymphocytes",
+        "fight infections"
+      ],
+      [
+        "Breast Cancer",
+        "Lobular Carcinoma"
+      ],
+      [
+        "Blood Tests",
+        "Lactate Dehydrogenase"
+      ],
+      [
+        "Internal Carotid Artery",
+        "Tumor"
+      ],
+      [
+        "Clinical Trial",
+        "Eligible Patients"
+      ],
+      [
+        "Disease",
+        "Mediastinal Gray Zone Lymphomas"
+      ],
+      [
+        "Imaging Studies",
+        "Treatment Planning"
+      ],
+      [
+        "Adrenal Cortex",
+        "Hormones"
+      ],
+      [
+        "HIV Blood Test",
+        "Primary CNS Lymphoma"
+      ],
+      [
+        "Active Surveillance",
+        "Thyroid Cancer"
+      ],
+      [
+        "Cervical Cancer",
+        "Stages"
+      ],
+      [
+        "Lymphoma",
+        "Weakened Immune System"
+      ],
+      [
+        "Biopsy",
+        "Diagnosis"
+      ],
+      [
+        "Genetic Counseling",
+        "Genetic Testing"
+      ],
+      [
+        "Bone Marrow",
+        "Stem Cell Rescue"
+      ],
+      [
+        "Breast Cancer",
+        "Grade"
+      ],
+      [
+        "Genetic Testing",
+        "Inherited Cancer Risk"
+      ],
+      [
+        "Subtypes",
+        "Urothelial Cancer"
+      ],
+      [
+        "PET Scan",
+        "Radiotracer"
+      ],
+      [
+        "Follow-up Exams",
+        "High-Risk Patients"
+      ],
+      [
+        "Bladder Cancer",
+        "Urinary Diversion"
+      ],
+      [
+        "B Lymphocytes",
+        "Follicular Lymphoma"
+      ],
+      [
+        "Prostate",
+        "Seminal Vesicles"
+      ],
+      [
+        "Follow-up Care",
+        "Monitoring Tests"
+      ],
+      [
+        "Advance care planning",
+        "Patients"
+      ],
+      [
+        "Breast",
+        "Invasive Breast Cancer"
+      ],
+      [
+        "Family History",
+        "Risk"
+      ],
+      [
+        "Melanocytes",
+        "Skin"
+      ],
+      [
+        "Blood Tests",
+        "Cancer Extent"
+      ],
+      [
+        "Throat Cancer",
+        "p16"
+      ],
+      [
+        "Esophageal Cancer",
+        "HPV"
+      ],
+      [
+        "Lung",
+        "Small Cell Lung Cancer"
+      ],
+      [
+        "Mediastinal gray zone lymphoma",
+        "Treatment"
+      ],
+      [
+        "Cancer",
+        "PET/CT scan"
+      ],
+      [
+        "Kidneys, ureters, bladder",
+        "Urogram"
+      ],
+      [
+        "Blood and Tissue Tests",
+        "Diagnostic Procedures"
+      ],
+      [
+        "Follicular Lymphoma",
+        "Imaging Studies"
+      ],
+      [
+        "Cancer",
+        "Lymphocytes"
+      ],
+      [
+        "Lymph Node",
+        "Metastasis"
+      ],
+      [
+        "Medical Records",
+        "Patient"
+      ],
+      [
+        "Bladder",
+        "Urinary Tract"
+      ],
+      [
+        "Kidney",
+        "Renal VenaCava"
+      ],
+      [
+        "Blood Cells",
+        "Stem Cell"
+      ],
+      [
+        "NCCN Guidelines for Patients",
+        "Testing for ALL"
+      ],
+      [
+        "helps in",
+        "p16 (HPV)"
+      ],
+      [
+        "Hepatitis B",
+        "Pre-treatment"
+      ],
+      [
+        "Complete Blood Count (CBC)",
+        "Differential"
+      ],
+      [
+        "Post-Surgery",
+        "Thyroid Hormone Replacement"
+      ],
+      [
+        "Follow-up physical exam",
+        "Method"
+      ],
+      [
+        "Thyroid Nodule",
+        "Ultrasound"
+      ],
+      [
+        "Genetic counselor",
+        "Patient"
+      ],
+      [
+        "Prognostic",
+        "Staging"
+      ],
+      [
+        "PD-L1",
+        "Response"
+      ],
+      [
+        "Computerized Navigation System",
+        "MRI or CT"
+      ],
+      [
+        "Breast Cancer",
+        "Ductal"
+      ],
+      [
+        "Cancer",
+        "Hodgkin Lymphoma"
+      ],
+      [
+        "Ovarian Cancer",
+        "Stage 1C"
+      ],
+      [
+        "Evaluating Treatment Efficacy",
+        "Treatment Failure"
+      ],
+      [
+        "Lymphocytes",
+        "Lymphoma"
+      ],
+      [
+        "Cancer Cells",
+        "PD-L1"
+      ],
+      [
+        "Fertility",
+        "Treatment"
+      ],
+      [
+        "Lungs",
+        "Small Cell Lung Cancer"
+      ],
+      [
+        "Biopsy",
+        "Cervical Cancer"
+      ],
+      [
+        "Detected by",
+        "Tumor"
+      ],
+      [
+        "Breast Cancer",
+        "TNM System"
+      ],
+      [
+        "Chemotherapy",
+        "Intravesical Chemotherapy"
+      ],
+      [
+        "Contrast Material",
+        "Imaging"
+      ],
+      [
+        "Cancer Treatment",
+        "Smoking"
+      ],
+      [
+        "Chemoradiation",
+        "EBRT"
+      ],
+      [
+        "Pathologist",
+        "Surgery"
+      ],
+      [
+        "Clinical Trials",
+        "Pregnancy"
+      ],
+      [
+        "Adenoma",
+        "Adrenal Gland"
+      ],
+      [
+        "Benign or Less Invasive Tumors",
+        "Lobectomy"
+      ],
+      [
+        "AML",
+        "Chemotherapy"
+      ],
+      [
+        "Clinical Trial",
+        "Patients"
+      ],
+      [
+        "Hepatic Artery",
+        "Liver"
+      ],
+      [
+        "Biomarker Testing",
+        "Chapter 2"
+      ],
+      [
+        "IMRT",
+        "Radiation Therapy"
+      ],
+      [
+        "CBCL",
+        "Lymphocytes"
+      ],
+      [
+        "NCCN Guidelines",
+        "Patient"
+      ],
+      [
+        "Pesticides",
+        "Risk Factors"
+      ],
+      [
+        "Patient",
+        "Symptoms"
+      ],
+      [
+        "Stoma",
+        "Urinary/Fecal Diversion"
+      ],
+      [
+        "Connective Tissue",
+        "Tumor"
+      ],
+      [
+        "Glioblastoma",
+        "Glioma"
+      ],
+      [
+        "Cancers",
+        "Family Members"
+      ],
+      [
+        "Li-Fraumeni Syndrome",
+        "increases risk of"
+      ],
+      [
+        "Lymph Nodes",
+        "Testing"
+      ],
+      [
+        "Extended Treatment with Oxaliplatin",
+        "Nerve Damage"
+      ],
+      [
+        "Early-Stage Prostate Cancer",
+        "Highly Treatable"
+      ],
+      [
+        "Glioma",
+        "Research"
+      ],
+      [
+        "Gliomas",
+        "Symptoms"
+      ],
+      [
+        "Prostate",
+        "Symptoms"
+      ],
+      [
+        "Cushing Syndrome",
+        "Hormone Overproduction"
+      ],
+      [
+        "Bladder Cancer",
+        "Clinical Trial"
+      ],
+      [
+        "Biopsy",
+        "Tissue"
+      ],
+      [
+        "Biomarker",
+        "Glioma"
+      ],
+      [
+        "Follow-up Testing",
+        "Treatment"
+      ],
+      [
+        "Long-term Side Effects",
+        "Thyroid Gland"
+      ],
+      [
+        "Test Results",
+        "Testing"
+      ],
+      [
+        "Biopsy",
+        "NPC"
+      ],
+      [
+        "HLA Typing",
+        "Organ Transplant Compatibility"
+      ],
+      [
+        "Checkpoint Inhibitors",
+        "Immunotherapy"
+      ],
+      [
+        "Imaging",
+        "recurrence"
+      ],
+      [
+        "Head and Neck Cancers",
+        "Nasopharyngeal Carcinoma"
+      ],
+      [
+        ">Surrogacy",
+        "Eggs or Embryos"
+      ],
+      [
+        "Lymph Nodes",
+        "Prostate Cancer"
+      ],
+      [
+        "Bone",
+        "Bone cancer"
+      ],
+      [
+        "Anal Squamous Cell Carcinoma",
+        "anal cancer"
+      ],
+      [
+        "Ovarian Cancer",
+        "Stage 3A2"
+      ],
+      [
+        "Program",
+        "Screening"
+      ],
+      [
+        "Ovarian Cancer",
+        "Treatment Team"
+      ],
+      [
+        "Gliomas",
+        "Mutations"
+      ],
+      [
+        "Bile Duct",
+        "Membranes"
+      ],
+      [
+        "Cancer Survivors",
+        "Support Resources"
+      ],
+      [
+        "Liver",
+        "Portal Vein"
+      ],
+      [
+        "MRI",
+        "Primary CNS Lymphoma"
+      ],
+      [
+        "Catheter",
+        "Procedure"
+      ],
+      [
+        "Anal Cancer",
+        "Invasive"
+      ],
+      [
+        "Breast Cancer",
+        "Ducts"
+      ],
+      [
+        "Location",
+        "Mouth Cancer"
+      ],
+      [
+        "Mouth and Head and Neck Cancers",
+        "Treatment"
+      ],
+      [
+        "Anal Cancer",
+        "Anal Sex"
+      ],
+      [
+        "Early Cervical Cancer",
+        "Treatment"
+      ],
+      [
+        "Pancreas",
+        "Pancreatic Cancer"
+      ],
+      [
+        "Testing",
+        "after_diagnosis"
+      ],
+      [
+        "Eastern Cooperative Oncology Group",
+        "Performance Status"
+      ],
+      [
+        "Gliomas",
+        "Invasion"
+      ],
+      [
+        "Chemotherapy",
+        "Ovarian Cancer"
+      ],
+      [
+        "Health Care Provider",
+        "Support and Counseling"
+      ],
+      [
+        "Anal Tumor",
+        "Treatment"
+      ],
+      [
+        "Brain",
+        "Brain MRI"
+      ],
+      [
+        "Care Team",
+        "Medical Record"
+      ],
+      [
+        "Head and Neck Cancer",
+        "Mouth and Neck Cancer"
+      ],
+      [
+        "Bladder",
+        "Lymph Nodes"
+      ],
+      [
+        "5-FU",
+        "Cisplatin"
+      ],
+      [
+        "Cancer",
+        "Mutations"
+      ],
+      [
+        "Blood",
+        "Renal Tubules"
+      ],
+      [
+        "Cancer Cells",
+        "PET/CT"
+      ],
+      [
+        "Local recurrence",
+        "Pelvic"
+      ],
+      [
+        "Test Results",
+        "Treatment Plan"
+      ],
+      [
+        "Blood or Lymph Vessels",
+        "Metastasis"
+      ],
+      [
+        "Skin Graft",
+        "Wound"
+      ],
+      [
+        "CNS",
+        "Tumor"
+      ],
+      [
+        "CNS",
+        "Symptoms"
+      ],
+      [
+        "Doctor",
+        "Hematologic Oncologist"
+      ],
+      [
+        "Biomarker Testing",
+        "Targeted Therapies"
+      ],
+      [
+        "Anal Cancer",
+        "CancerHope Network"
+      ],
+      [
+        "TSH Elevation",
+        "Thyrogen"
+      ],
+      [
+        "Cancer Cells",
+        "Lung Cancers"
+      ],
+      [
+        "Family History",
+        "Inherited Risks"
+      ],
+      [
+        "Gene Mutation Analysis",
+        "Next-generation sequencing"
+      ],
+      [
+        "Chemotherapy",
+        "Treatment Options"
+      ],
+      [
+        "Epstein-Barr virus",
+        "Primary CNS lymphoma"
+      ],
+      [
+        "Doctor",
+        "Skin Biopsy"
+      ],
+      [
+        "Lymphocytes",
+        "Lymphoid Progenitor Cells"
+      ],
+      [
+        "Imaging Tests",
+        "MRI Scan"
+      ],
+      [
+        "Imaging",
+        "MRI"
+      ],
+      [
+        "Adenoma",
+        "Cancer"
+      ],
+      [
+        "Cancer Cells",
+        "Lymph Node"
+      ],
+      [
+        "Concept",
+        "Treatment"
+      ],
+      [
+        "Multidisciplinary Consult",
+        "Pancreatic Cancer"
+      ],
+      [
+        "Symptoms",
+        "Tumor"
+      ],
+      [
+        "Ablative Surgery",
+        "Anal Cancer"
+      ],
+      [
+        "Prostate Gland",
+        "Prostate-specific Antigen"
+      ],
+      [
+        "Treatment",
+        "Tumor"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Adrenal Glands"
+      ],
+      [
+        "CLL",
+        "Hematopathologist"
+      ],
+      [
+        "Organ",
+        "Stomach Cancer"
+      ],
+      [
+        "Port",
+        "Treatment Options"
+      ],
+      [
+        "PSA Level",
+        "Prostate"
+      ],
+      [
+        "Fertility",
+        "Pregnancy"
+      ],
+      [
+        "Germinal Centers",
+        "Infection"
+      ],
+      [
+        "Cancer",
+        "Distant Sites"
+      ],
+      [
+        "CT",
+        "Cancer"
+      ],
+      [
+        "BCG",
+        "Immune Activation"
+      ],
+      [
+        "Anal Cancer",
+        "Stages I – III"
+      ],
+      [
+        "Throat Cancer",
+        "Tumor"
+      ],
+      [
+        "Growth",
+        "Tumor"
+      ],
+      [
+        "Bone Marrow Aspirate and Biopsy",
+        "genetic testing"
+      ],
+      [
+        "Staging",
+        "cTNM"
+      ],
+      [
+        "Cervical Cancer",
+        "Neuroendocrine Carcinoma of the Cervix"
+      ],
+      [
+        "Chemotherapy",
+        "Intravenous"
+      ],
+      [
+        "Glioma",
+        "Support"
+      ],
+      [
+        "Brain",
+        "Lymphoma"
+      ],
+      [
+        "Phase 3 Trials",
+        "Standard Treatment"
+      ],
+      [
+        "Blood Vessels",
+        "Liver"
+      ],
+      [
+        "Bowel blockage",
+        "Colorectal cancer"
+      ],
+      [
+        "Biomarker Tests",
+        "Blood and Urine Tests"
+      ],
+      [
+        "Laparoscope",
+        "Pelvic Abdominal Organs"
+      ],
+      [
+        "National Cancer Institute",
+        "clinical trials"
+      ],
+      [
+        "Bone",
+        "Sodium Fluoride PET-CT"
+      ],
+      [
+        "Cancer",
+        "Extrafascial (simple) hysterectomy"
+      ],
+      [
+        "Blood Tests",
+        "General Health"
+      ],
+      [
+        "Care Team",
+        "Treats"
+      ],
+      [
+        "Resources",
+        "Support Groups"
+      ],
+      [
+        "Friends",
+        "Support System"
+      ],
+      [
+        "Immunodeficiency",
+        "Primary CNS lymphoma"
+      ],
+      [
+        "Bevacizumab",
+        "Chemotherapy"
+      ],
+      [
+        "Cancer",
+        "Fertility and Family Planning"
+      ],
+      [
+        "NCIs Cancer Information Service",
+        "patients"
+      ],
+      [
+        "Anthracyclines",
+        "Damage"
+      ],
+      [
+        "Endoscopy",
+        "Test"
+      ],
+      [
+        "Cancer",
+        "Pelvic Exenteration"
+      ],
+      [
+        "Clinical Trials",
+        "Research Team"
+      ],
+      [
+        "Cancers",
+        "Head and Neck"
+      ],
+      [
+        "Cancer Progression",
+        "Immunotherapy"
+      ],
+      [
+        "Staging",
+        "pTNM"
+      ],
+      [
+        "Connective Tissue Diseases",
+        "Radiation Therapy"
+      ],
+      [
+        "Liver",
+        "Liver Cancer"
+      ],
+      [
+        "Preliminary Diagnosis",
+        "Tissue Analysis"
+      ],
+      [
+        "Bladder Cancer",
+        "Treatment Team"
+      ],
+      [
+        "Lymphoblasts",
+        "Organs"
+      ],
+      [
+        "Size and Extent",
+        "T"
+      ],
+      [
+        "Hair Loss",
+        "Irinotecan"
+      ],
+      [
+        "Biopsy",
+        "Test"
+      ],
+      [
+        "Prostate Cancer",
+        "Surgical Castration"
+      ],
+      [
+        "Placebo",
+        "Treatment"
+      ],
+      [
+        "CSCC",
+        "Radiation Therapy"
+      ],
+      [
+        "Cells with SSTR",
+        "SSTR-PET"
+      ],
+      [
+        "Post-surgical Treatment",
+        "RAI Therapy"
+      ],
+      [
+        "CML",
+        "Testing"
+      ],
+      [
+        "Bladder",
+        "Radical Cystectomy"
+      ],
+      [
+        "CSCC",
+        "Platinum-Based Chemotherapy"
+      ],
+      [
+        "AML",
+        "Mutations"
+      ],
+      [
+        "Hepatocellular Carcinoma",
+        "Liver"
+      ],
+      [
+        "Intravesical BCG",
+        "Treatment Schedule"
+      ],
+      [
+        "Biopsy",
+        "Genetic Testing"
+      ],
+      [
+        "Thyroid Cancer",
+        "Thyroid Gland"
+      ],
+      [
+        "Cancer Recurrence",
+        "Lymph Node Examination"
+      ],
+      [
+        "Biopsy",
+        "Testing"
+      ],
+      [
+        "BCR::ABL",
+        "Philadelphia Chromosome"
+      ],
+      [
+        "Locally Advanced Cancer",
+        "Treatment"
+      ],
+      [
+        "NCCN Patient Guides for Cancer app",
+        "Patients"
+      ],
+      [
+        "Immunotherapy",
+        "systemic"
+      ],
+      [
+        "Bone Cancer Staging",
+        "Chapter 3"
+      ],
+      [
+        "Imaging",
+        "Stages 2, 3, 4A"
+      ],
+      [
+        "T-cell lymphoblastic lymphoma",
+        "T-cell lymphoblasts"
+      ],
+      [
+        "Brachytherapy",
+        "Hysterectomy"
+      ],
+      [
+        "Biomarker",
+        "Targeted Therapies"
+      ],
+      [
+        "Anal Cancer",
+        "Love Your Buns"
+      ],
+      [
+        "Alveoli",
+        "Oxygen"
+      ],
+      [
+        "Pathologist",
+        "Person"
+      ],
+      [
+        "Biomarkers",
+        "Immunotherapy"
+      ],
+      [
+        "Leukemia",
+        "Lymphocyte"
+      ],
+      [
+        "Adenocarcinoma",
+        "Lungs"
+      ],
+      [
+        "Skin Cancer",
+        "Weakened Immune System"
+      ],
+      [
+        "Abdominoperineal Resection",
+        "Anal Cancer"
+      ],
+      [
+        "Ovarian Cancer",
+        "Pelvic Exam"
+      ],
+      [
+        "Biopsy",
+        "Prostate Cancer"
+      ],
+      [
+        "Distant Metastasis",
+        "M Score"
+      ],
+      [
+        "Maintenance Therapy",
+        "Ovarian Cancer"
+      ],
+      [
+        "Clinical Trials",
+        "Phase 1 Trials"
+      ],
+      [
+        "Cancer",
+        "Radiation Oncologist"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Signs And Symptoms"
+      ],
+      [
+        "Biopsy Analysis",
+        "Pathologist"
+      ],
+      [
+        "CT",
+        "Imaging"
+      ],
+      [
+        "Location",
+        "Rectum"
+      ],
+      [
+        "Stage",
+        "TNM"
+      ],
+      [
+        "Bladder",
+        "Stage 3"
+      ],
+      [
+        "Anal Cancer",
+        "Radiation Therapy"
+      ],
+      [
+        "Treatment",
+        "depends on"
+      ],
+      [
+        "Leukemia",
+        "Spinal Fluid"
+      ],
+      [
+        "Biopsies",
+        "Tumor Detection"
+      ],
+      [
+        "Family Cancer Health History",
+        "Genetic Risk"
+      ],
+      [
+        "DRE",
+        "Diagnosed"
+      ],
+      [
+        "Bladder",
+        "Intravesical BCG"
+      ],
+      [
+        "Male Reproductive System",
+        "Prostate"
+      ],
+      [
+        "Family History",
+        "Germline Mutations"
+      ],
+      [
+        "Biopsy",
+        "Cancer"
+      ],
+      [
+        "Actinic Keratosis",
+        "Tirbanibulin"
+      ],
+      [
+        "Cancer",
+        "MSI-H/dMMR"
+      ],
+      [
+        "MRI",
+        "Prostate"
+      ],
+      [
+        "Anal Cancer",
+        "Bowel Function"
+      ],
+      [
+        "DNA Mutations",
+        "MSI-H/dMMR Mutation"
+      ],
+      [
+        "Acute Myeloid Leukemia",
+        "Chemotherapy side effect"
+      ],
+      [
+        "Hypomethylating Agents",
+        "Method"
+      ],
+      [
+        "Cancer Cells",
+        "PET"
+      ],
+      [
+        "Breast",
+        "Healthcare Providers"
+      ],
+      [
+        "Cancer Recurrence",
+        "Imaging"
+      ],
+      [
+        "TNM System",
+        "Throat Cancer"
+      ],
+      [
+        "Jaundice",
+        "Pancreatic cancer"
+      ],
+      [
+        "Blood Counts",
+        "CLL"
+      ],
+      [
+        "Pelvic Lymph Node Evaluation",
+        "Stage 1A2"
+      ],
+      [
+        "Ascites",
+        "Cancer Progression"
+      ],
+      [
+        "Homologous Recombination Deficiency",
+        "Ovarian Cancer"
+      ],
+      [
+        "BRCA2",
+        "Olaparib"
+      ],
+      [
+        "Mohs Surgery",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Lung Cancers",
+        "treatments"
+      ],
+      [
+        "AML",
+        "Physical Exam"
+      ],
+      [
+        "Genetic Testing",
+        "Tumor Mutation Testing"
+      ],
+      [
+        "Chapter 10",
+        "Resources"
+      ],
+      [
+        "Hormone Replacement Therapy",
+        "Menopause"
+      ],
+      [
+        "Extranodal Disease",
+        "Older Persons"
+      ],
+      [
+        "Autoimmune disease",
+        "Primary CNS lymphoma"
+      ],
+      [
+        "Lungs",
+        "Nasopharynx"
+      ],
+      [
+        "Cancer Treatment",
+        "Treatment Team"
+      ],
+      [
+        "Dissection",
+        "Lymph Nodes"
+      ],
+      [
+        "Chemotherapy",
+        "ddMVAC"
+      ],
+      [
+        "Radioactive Iodine Uptake Test",
+        "Thyroid Gland"
+      ],
+      [
+        "Diagnosis",
+        "Laboratory Test"
+      ],
+      [
+        "Caregivers",
+        "Glioma"
+      ],
+      [
+        "Marjolins Ulcer",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Anal Cancer",
+        "Chemoradiation"
+      ],
+      [
+        "Inherited Mutations",
+        "Lynch syndrome"
+      ],
+      [
+        "Diagnosis",
+        "Imaging Scan"
+      ],
+      [
+        "Patients",
+        "Support System"
+      ],
+      [
+        "Bone Marrow",
+        "CLL"
+      ],
+      [
+        "Cushing Syndrome",
+        "Hormonal Excess"
+      ],
+      [
+        "Adenoma",
+        "Polyps"
+      ],
+      [
+        "Indiana Pouch",
+        "Stoma"
+      ],
+      [
+        "Immunotherapy",
+        "Metastatic Anal Cancer"
+      ],
+      [
+        "Genetic Instability",
+        "MSI-H/dMMR"
+      ],
+      [
+        "Blood Tests",
+        "Liver"
+      ],
+      [
+        "Confirmation",
+        "Diagnosis"
+      ],
+      [
+        "Distant Tumors",
+        "Treatment"
+      ],
+      [
+        "FIGO",
+        "Ovarian Cancer"
+      ],
+      [
+        "Gliomas",
+        "Normal Brain"
+      ],
+      [
+        "Follicular Lymphoma",
+        "Stage"
+      ],
+      [
+        "Chromosomes 9 and 22",
+        "Gene"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Skin Lesion"
+      ],
+      [
+        "Chronic Lymphocytic Leukemia",
+        "Weakened Immune System"
+      ],
+      [
+        "Hodgkin Lymphoma",
+        "Reed-Sternberg Cells"
+      ],
+      [
+        "Lung Cancers",
+        "Small Cell Lung Cancer"
+      ],
+      [
+        "Recurrence",
+        "Thyroid"
+      ],
+      [
+        "Assessment",
+        "Medical History"
+      ],
+      [
+        "Cervical Cancer",
+        "Interstitial Brachytherapy"
+      ],
+      [
+        "High-Risk Patients",
+        "Skin Exams"
+      ],
+      [
+        "Kidney",
+        "Tumors"
+      ],
+      [
+        "Biopsy",
+        "Pathology"
+      ],
+      [
+        "Location",
+        "Prostate Cancer"
+      ],
+      [
+        "AML",
+        "Myeloblasts"
+      ],
+      [
+        "Metastatic Cancer",
+        "RAI Therapy"
+      ],
+      [
+        "Rectal cancer",
+        "Tumor"
+      ],
+      [
+        "Lung cancer",
+        "Stages"
+      ],
+      [
+        "Immunotherapy",
+        "Method"
+      ],
+      [
+        "Bone",
+        "Tumor"
+      ],
+      [
+        "Lung Cancers",
+        "Lungs"
+      ],
+      [
+        "Blood Tests",
+        "Bone Marrow Tests"
+      ],
+      [
+        "Cervical Cancer",
+        "Lymphovascular Space Invasion"
+      ],
+      [
+        "Care Team",
+        "Diagnosis"
+      ],
+      [
+        "Ovarian Cancer",
+        "Treatment"
+      ],
+      [
+        "Cancer",
+        "Medical Oncologist"
+      ],
+      [
+        "Conization",
+        "Stage 1A1"
+      ],
+      [
+        "Cancer Treatments",
+        "Side Effects"
+      ],
+      [
+        "Chemotherapy",
+        "Monitoring"
+      ],
+      [
+        "Birth Control",
+        "Pregnancy"
+      ],
+      [
+        "Egg Freezing",
+        "Fertility"
+      ],
+      [
+        "Blood Filtration",
+        "Kidney"
+      ],
+      [
+        "Clinical Trials",
+        "Patients"
+      ],
+      [
+        "Hormone Therapy",
+        "Testicles"
+      ],
+      [
+        "Histology",
+        "Papillary RCC"
+      ],
+      [
+        "Guidelines",
+        "Treatment Plan"
+      ],
+      [
+        "Chemotherapy",
+        "Oxaliplatin"
+      ],
+      [
+        "Genetic Mutations",
+        "Hereditary Risk"
+      ],
+      [
+        "Chemotherapy",
+        "Involves"
+      ],
+      [
+        "Early-Stage Prostate Cancer",
+        "Prostate Cancer"
+      ],
+      [
+        "Immunotherapy",
+        "Tumor Mutational Burden"
+      ],
+      [
+        "Blasts",
+        "Blood"
+      ],
+      [
+        "Antibodies",
+        "B Lymphocytes"
+      ],
+      [
+        "Blood Tests",
+        "Guide"
+      ],
+      [
+        "Primary CNS Lymphoma",
+        "Rituximab"
+      ],
+      [
+        "Gene",
+        "Mutations"
+      ],
+      [
+        "Cancer",
+        "Family"
+      ],
+      [
+        "Biomarker Testing",
+        "Tissue Sample"
+      ],
+      [
+        "Lymph Nodes",
+        "Surgery"
+      ],
+      [
+        "Primary Care Doctor",
+        "Survivorship Care Plan"
+      ],
+      [
+        "Nicotine",
+        "Smoking, Vaping"
+      ],
+      [
+        "Actinic Keratosis",
+        "Chemical Peels"
+      ],
+      [
+        "Hormonal",
+        "Menopause"
+      ],
+      [
+        "Family History",
+        "Leukemia"
+      ],
+      [
+        "Hodgkin Lymphoma",
+        "Lymphatic System"
+      ],
+      [
+        "Contrast Agent",
+        "MRI Scan"
+      ],
+      [
+        "Progression",
+        "Treatment"
+      ],
+      [
+        "CML",
+        "Test Results"
+      ],
+      [
+        "Analysis",
+        "Lab"
+      ],
+      [
+        "Blood",
+        "CLL"
+      ],
+      [
+        "Covering",
+        "Stoma"
+      ],
+      [
+        "Blood Urea Nitrogen",
+        "Creatinine"
+      ],
+      [
+        "Lymph Nodes",
+        "Radiation Therapy"
+      ],
+      [
+        "Chemoradiation",
+        "Post-Chemotherapy"
+      ],
+      [
+        "Cancer Types",
+        "Thyroid Gland"
+      ],
+      [
+        "Metastatic Anal Cancer",
+        "Systemic Therapy"
+      ],
+      [
+        "Post-Treatment",
+        "Survivorship"
+      ],
+      [
+        "Bladder",
+        "Location"
+      ],
+      [
+        "Chemoradiation",
+        "Chemotherapy"
+      ],
+      [
+        "Biopsy",
+        "Test Results"
+      ],
+      [
+        "Blood",
+        "Blood components"
+      ],
+      [
+        "Diagnostic",
+        "Imaging Tests"
+      ],
+      [
+        "Metastatic Cervical Cancer",
+        "Stage 4B"
+      ],
+      [
+        "Lips",
+        "Mouth"
+      ],
+      [
+        "Beta-2 Microglobulin",
+        "CLL"
+      ],
+      [
+        "Blood Stem Cells",
+        "Progenitor Cells"
+      ],
+      [
+        "Chemotherapy Drugs",
+        "Stem Cell Rescue"
+      ],
+      [
+        "Lung",
+        "Lung Cancers"
+      ],
+      [
+        "Breast",
+        "Nipple"
+      ],
+      [
+        "Care Team",
+        "Pulmonologist"
+      ],
+      [
+        "Metastatic Disease",
+        "Systemic Therapy"
+      ],
+      [
+        "Blood Clots",
+        "High-Grade Gliomas"
+      ],
+      [
+        "Assessment",
+        "Physical Exam"
+      ],
+      [
+        "Cryotherapy",
+        "Treatment"
+      ],
+      [
+        "Breast",
+        "DCIS"
+      ],
+      [
+        "Lobes",
+        "Lungs"
+      ],
+      [
+        "In case surgery isn't feasible or cancer persists",
+        "Radiation Therapy"
+      ],
+      [
+        "Blood Counts",
+        "White Blood Cells"
+      ],
+      [
+        "Bevacizumab",
+        "Maintenance Therapy"
+      ],
+      [
+        "Cutaneous B-cell lymphoma",
+        "Lymphatic System"
+      ],
+      [
+        "Primary CNS Lymphoma",
+        "Whole-brain Radiation Therapy"
+      ],
+      [
+        "Colorectal Cancer",
+        "MLH1"
+      ],
+      [
+        "NPC",
+        "SCC"
+      ],
+      [
+        "Blood",
+        "Tests"
+      ],
+      [
+        "Grade",
+        "High-grade Gliomas"
+      ],
+      [
+        "Cancer",
+        "Phase 2 Trials"
+      ],
+      [
+        "Blood and Bone Marrow Tests",
+        "Diagnosis of ALL"
+      ],
+      [
+        "Anal Cancer",
+        "Smoking"
+      ],
+      [
+        "Lung Cancer",
+        "Lung Cancer Screening"
+      ],
+      [
+        "Colon Cancer",
+        "Polyp"
+      ],
+      [
+        "Eggs or Embryos",
+        "Surrogacy"
+      ],
+      [
+        "CT",
+        "Spread of Ovarian Cancer"
+      ],
+      [
+        "Maintenance Therapy",
+        "Olaparib"
+      ],
+      [
+        "Grade 4 Tumors",
+        "Growth and Spread"
+      ],
+      [
+        "Anal Cancer",
+        "Person"
+      ],
+      [
+        "Anal Cancer Foundation",
+        "Peer-to-Peer Support"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Skin"
+      ],
+      [
+        "AML",
+        "Blood Clotting Tests"
+      ],
+      [
+        "Age",
+        "PSA"
+      ],
+      [
+        "Mouth",
+        "Tumor"
+      ],
+      [
+        "Clinical trial",
+        "Patients"
+      ],
+      [
+        "Gene",
+        "Mutation"
+      ],
+      [
+        "Imaging Tests",
+        "Test"
+      ],
+      [
+        "Anal Canal",
+        "Location"
+      ],
+      [
+        "BCG Shortage",
+        "Breach"
+      ],
+      [
+        "Anal Dysplasia",
+        "LSIL"
+      ],
+      [
+        "Brain",
+        "Gliomas"
+      ],
+      [
+        "Research",
+        "Team"
+      ],
+      [
+        "Chemotherapy",
+        "Radiation"
+      ],
+      [
+        "AML",
+        "Biomarker Tests"
+      ],
+      [
+        "Genetic Feature",
+        "MSI-H/dMMR"
+      ],
+      [
+        "Cancer Centers",
+        "Social Workers"
+      ],
+      [
+        "Breast",
+        "Mammogram"
+      ],
+      [
+        "Imaging Tests",
+        "Testing"
+      ],
+      [
+        "Blood Tests",
+        "Cancer Staging"
+      ],
+      [
+        "Colon Cancer",
+        "Mismatch Repair Deficiency"
+      ],
+      [
+        "Bladder Cancer",
+        "Treatment"
+      ],
+      [
+        "Chemotherapy",
+        "Side Effects"
+      ],
+      [
+        "Adrenal Tumors",
+        "Ultrasound"
+      ],
+      [
+        "Biomarker Testing",
+        "Treatment Guidance"
+      ],
+      [
+        "BCR::ABL1",
+        "Philadelphia Chromosome"
+      ],
+      [
+        "Blood Test",
+        "Diagnosis of ALL"
+      ],
+      [
+        "HER2",
+        "HER2-Positive"
+      ],
+      [
+        "Bone Marrow Aspirate and Biopsy",
+        "Guide"
+      ],
+      [
+        "Consultation Process",
+        "Physical Exam"
+      ],
+      [
+        "Chemotherapy",
+        "is"
+      ],
+      [
+        "Bowens Disease",
+        "Superficial Treatments"
+      ],
+      [
+        "Imaging Tests",
+        "Prostate Cancer"
+      ],
+      [
+        "Epstein-Barr Virus",
+        "Nasopharyngeal Cancer"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Skin Exams"
+      ],
+      [
+        "Anal Cancer",
+        "Stage"
+      ],
+      [
+        "Concept",
+        "Remission"
+      ],
+      [
+        "Bone",
+        "Bone Scan"
+      ],
+      [
+        "CT Scan",
+        "Prostate"
+      ],
+      [
+        "Immunotherapy",
+        "Pembrolizumab"
+      ],
+      [
+        "CSCC",
+        "Sunscreen"
+      ],
+      [
+        "Content",
+        "Treatment Plan"
+      ],
+      [
+        "Imaging",
+        "Stage 1"
+      ],
+      [
+        "Breast",
+        "Lymph Nodes"
+      ],
+      [
+        "External Beam Radiation Therapy",
+        "Radiation Therapy"
+      ],
+      [
+        "BRCA1",
+        "Breast Cancer"
+      ],
+      [
+        "Standard of Care",
+        "Treatment Options"
+      ],
+      [
+        "AML",
+        "Blasts"
+      ],
+      [
+        "Bladder Removal Surgery",
+        "Side Effects"
+      ],
+      [
+        "Lymph Nodes",
+        "Metastasis"
+      ],
+      [
+        "Cancer Staging",
+        "Prognosis"
+      ],
+      [
+        "CD20",
+        "Rituximab"
+      ],
+      [
+        "Imaging",
+        "Prostate"
+      ],
+      [
+        "Care Team",
+        "Physicians"
+      ],
+      [
+        "Blood",
+        "White Blood Cells"
+      ],
+      [
+        "Blasts",
+        "CML"
+      ],
+      [
+        "Biomarker",
+        "Ovarian Cancer"
+      ],
+      [
+        "Bone Scan",
+        "Radioactive Tracer"
+      ],
+      [
+        "Distant Organs",
+        "Metastasis"
+      ],
+      [
+        "Clinical Trials",
+        "Phase 2 Trials"
+      ],
+      [
+        "Blood Tests",
+        "Cancer Spread"
+      ],
+      [
+        "Gallbladder",
+        "Serosa"
+      ],
+      [
+        "Mastectomy",
+        "Treatment"
+      ],
+      [
+        "Genetic Testing",
+        "Ovarian Cancer"
+      ],
+      [
+        "Early NSCLC",
+        "Stage 1"
+      ],
+      [
+        "Fallopian Tubes",
+        "Ovaries"
+      ],
+      [
+        "AML",
+        "Blood Stem Cells"
+      ],
+      [
+        "Adrenal Tumors",
+        "Hereditary Conditions"
+      ],
+      [
+        "Metastatic Cervical Cancer",
+        "Systemic Therapy"
+      ],
+      [
+        "External Radiation",
+        "Radiation Therapy"
+      ],
+      [
+        "Bone Marrow Involvement",
+        "Older Persons"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "History of Skin Cancer"
+      ],
+      [
+        "Skin Cancer",
+        "Sunlight/Outdoor Tanning"
+      ],
+      [
+        "Prostate",
+        "Urethra"
+      ],
+      [
+        "Breast",
+        "Lobules"
+      ],
+      [
+        "Diagnosis",
+        "Prognosis"
+      ],
+      [
+        "Mouth Cancer",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Examination",
+        "Laryngoscopy"
+      ],
+      [
+        "Bladder",
+        "Tumor"
+      ],
+      [
+        "Bladder",
+        "Symptoms"
+      ],
+      [
+        "Distant Metastases",
+        "Imaging Tests"
+      ],
+      [
+        "Hereditary Syndromes",
+        "Syndromes"
+      ],
+      [
+        "ECOG",
+        "Performance Status"
+      ],
+      [
+        "Glioma",
+        "Treatment"
+      ],
+      [
+        "Cold Knife Conization",
+        "Cone Biopsy"
+      ],
+      [
+        "Adenoma",
+        "Colonoscopy"
+      ],
+      [
+        "Core Sample",
+        "Pathologist"
+      ],
+      [
+        "Biomarker",
+        "PD-L1"
+      ],
+      [
+        "Gadolinium",
+        "MRI"
+      ],
+      [
+        "Early Diagnosis",
+        "Treatment"
+      ],
+      [
+        "Lymph",
+        "Lymph Nodes"
+      ],
+      [
+        "Anal Cancer",
+        "Fertility Preservation"
+      ],
+      [
+        "Nearby Organs",
+        "Radical Cystectomy"
+      ],
+      [
+        "Stem Cell Rescue",
+        "Treatment"
+      ],
+      [
+        "Side Effects",
+        "Steroids"
+      ],
+      [
+        "Cancer Detection",
+        "PET/CT Scan"
+      ],
+      [
+        "Hysterectomy",
+        "Lymph Nodes"
+      ],
+      [
+        "Gliomas",
+        "Oligodendrogliomas"
+      ],
+      [
+        "Genes",
+        "Risk Factors"
+      ],
+      [
+        "Large Cell Carcinoma",
+        "Lung"
+      ],
+      [
+        "Cancer",
+        "Genetic Test"
+      ],
+      [
+        "Physical Exam",
+        "Screening"
+      ],
+      [
+        "Cancer",
+        "Polyp"
+      ],
+      [
+        "Bladder Cancer",
+        "Transurethral Resection of Bladder Tumor"
+      ],
+      [
+        "Active Surveillance",
+        "Prostate Cancer"
+      ],
+      [
+        "Bladder Cancer",
+        "Efficacy"
+      ],
+      [
+        "FISH",
+        "Genetic Testing"
+      ],
+      [
+        "Cancer detection",
+        "PET/CT scan"
+      ],
+      [
+        "American Cancer Society",
+        "Anal Cancer"
+      ],
+      [
+        "Adrenocortical Carcinoma",
+        "Other"
+      ],
+      [
+        "Lungs",
+        "Prostate Cancer"
+      ],
+      [
+        "PSA",
+        "Risk for Prostate Cancer"
+      ],
+      [
+        "Actinic Keratosis",
+        "Calcipotriene"
+      ],
+      [
+        "Bevacizumab",
+        "Targeted therapy"
+      ],
+      [
+        "Anal Cancer",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Blood",
+        "Blood Smear"
+      ],
+      [
+        "Risk Level",
+        "Tumor"
+      ],
+      [
+        "Lymph Node",
+        "N Score"
+      ],
+      [
+        "Adenoma",
+        "Aldosteronoma"
+      ],
+      [
+        "Bladder Cancer",
+        "Surgical Treatment"
+      ],
+      [
+        "Hyperthermic Intraperitoneal Chemotherapy",
+        "Surgery"
+      ],
+      [
+        "Imaging Tests",
+        "Radiologist"
+      ],
+      [
+        "Aspirin",
+        "Cancer Prevention"
+      ],
+      [
+        "FAP",
+        "Polyps"
+      ],
+      [
+        "MRI",
+        "Tumor"
+      ],
+      [
+        "Blood Stem Cells",
+        "Lymphoid Progenitor Cells"
+      ],
+      [
+        "CT Scan",
+        "Imaging Tests"
+      ],
+      [
+        "Radioactive Iodine",
+        "Treatment"
+      ],
+      [
+        "Imaging Tests",
+        "Test Results"
+      ],
+      [
+        "Prostate",
+        "Prostate-specific Antigen"
+      ],
+      [
+        "Glioma",
+        "Grade"
+      ],
+      [
+        "Chromosome",
+        "Karyotype"
+      ],
+      [
+        "Growth",
+        "Tumors"
+      ],
+      [
+        "Ovarian Cancer",
+        "Symptoms"
+      ],
+      [
+        "Breast Cancer",
+        "Invasive Ductal Carcinoma"
+      ],
+      [
+        "Bone",
+        "X-Ray"
+      ],
+      [
+        "Diagnosis",
+        "Tests for Pancreatic Cancer"
+      ],
+      [
+        "Cancer",
+        "Imaging Scans"
+      ],
+      [
+        "Cancer",
+        "Distress"
+      ],
+      [
+        "Cancer",
+        "Family History"
+      ],
+      [
+        "Biopsy",
+        "Pathologist"
+      ],
+      [
+        "Lung Cancers",
+        "Squamous Cell Carcinomas"
+      ],
+      [
+        "Anal Cancer",
+        "Stage IV"
+      ],
+      [
+        "Large Cell Carcinoma",
+        "Lung Cancers"
+      ],
+      [
+        "Cancer",
+        "Monitoring"
+      ],
+      [
+        "Localized Prostate Cancer",
+        "Prostate"
+      ],
+      [
+        "Cancer Spread",
+        "Lymph Node Examination"
+      ],
+      [
+        "Colon Cancer",
+        "Stage 2"
+      ],
+      [
+        "T-ALL",
+        "Thymus"
+      ],
+      [
+        "Microscope",
+        "Neuropathologist"
+      ],
+      [
+        "Online Portals",
+        "Patient"
+      ],
+      [
+        "Papillary Carcinoma",
+        "Thyroid Gland"
+      ],
+      [
+        "Oncologist",
+        "Physical exams"
+      ],
+      [
+        "Imaging",
+        "Radios"
+      ],
+      [
+        "PSA",
+        "Race"
+      ],
+      [
+        "Cancer",
+        "RAI Therapy"
+      ],
+      [
+        "Head and Neck Cancers",
+        "Throat"
+      ],
+      [
+        "Systemic Therapy",
+        "Treatment"
+      ],
+      [
+        "Adrenal Gland",
+        "Pheochromocytoma"
+      ],
+      [
+        "Biopsy",
+        "Metastasis"
+      ],
+      [
+        "Blood Tests",
+        "Treatment Plan"
+      ],
+      [
+        "Clinical Trial",
+        "Glioma"
+      ],
+      [
+        "Body",
+        "Brain MRI Scan"
+      ],
+      [
+        "Genetic Counselor",
+        "Genetic Testing"
+      ],
+      [
+        "Managing Side Effects",
+        "Medication Interactions"
+      ],
+      [
+        "Breast",
+        "Cancer Cells"
+      ],
+      [
+        "Depth of Invasion",
+        "Tumor"
+      ],
+      [
+        "Recurrent Tumors",
+        "Tumor"
+      ],
+      [
+        "MSH2",
+        "Uterine Cancer"
+      ],
+      [
+        "CSCC",
+        "Immunotherapy"
+      ],
+      [
+        "FISH",
+        "Gene"
+      ],
+      [
+        "Insurance Coverage",
+        "Treatment Cost"
+      ],
+      [
+        "Clinical Stage",
+        "Pathologic Stage"
+      ],
+      [
+        "Hyperkeratosis",
+        "Treatment"
+      ],
+      [
+        "Informed Consent",
+        "Participants"
+      ],
+      [
+        "Electrons",
+        "Radiation"
+      ],
+      [
+        "Patient",
+        "Standard Cancer Care"
+      ],
+      [
+        "Cancer",
+        "Fertility"
+      ],
+      [
+        "Liver Cancer",
+        "Risk Factor"
+      ],
+      [
+        "Ovarian Cancer",
+        "Stages 2, 3, and 4 Chemotherapy"
+      ],
+      [
+        "Chemotherapy",
+        "Systemic Chemotherapy"
+      ],
+      [
+        "Blood or Lymph Vessels",
+        "Cancer Cells"
+      ],
+      [
+        "Blood Test",
+        "Uric Acid"
+      ],
+      [
+        "Cisplatin",
+        "Hearing Loss"
+      ],
+      [
+        "Cancer",
+        "Genetic Testing"
+      ],
+      [
+        "Metastatic Cancer",
+        "Radiation Therapy"
+      ],
+      [
+        "Metastatic",
+        "Throat Cancer"
+      ],
+      [
+        "CTCL",
+        "Lymphocytes"
+      ],
+      [
+        "Leukemia",
+        "T-ALL"
+      ],
+      [
+        "Lymph Nodes",
+        "Nasopharynx"
+      ],
+      [
+        "Maintenance Therapy",
+        "Nirraparib"
+      ],
+      [
+        "Lymph Nodes",
+        "Metastatic Prostate Cancer"
+      ],
+      [
+        "Efficacy",
+        "Fertility-Sparing Surgery"
+      ],
+      [
+        "Cancer",
+        "Follow-up"
+      ],
+      [
+        "Ovarian Cancer",
+        "Stage 3B"
+      ],
+      [
+        "Standard Treatment",
+        "Trial"
+      ],
+      [
+        "Bladder cancer",
+        "Family history"
+      ],
+      [
+        "MRI",
+        "Method"
+      ],
+      [
+        "Blood Stem Cells",
+        "Chemotherapy"
+      ],
+      [
+        "Cancer Cells",
+        "Pathologist"
+      ],
+      [
+        "Treatment",
+        "Whole-Brain Radiation Therapy"
+      ],
+      [
+        "Prostate",
+        "Treatment"
+      ],
+      [
+        "Hypothalamus",
+        "LHRH"
+      ],
+      [
+        "Doctor",
+        "Patient"
+      ],
+      [
+        "Stage",
+        "TNM Scores"
+      ],
+      [
+        "Bladder",
+        "Urinary Diversion"
+      ],
+      [
+        "Urothelial Carcinoma",
+        "not"
+      ],
+      [
+        "Chapter 4",
+        "Types of Treatment"
+      ],
+      [
+        "Ovarian Cancer",
+        "Stage 2A"
+      ],
+      [
+        "Chemotherapy side effect",
+        "Myelodysplastic Syndrome"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Recurrence"
+      ],
+      [
+        "Genetic Mutations",
+        "Thyroid Cancer"
+      ],
+      [
+        "Cancer cells",
+        "Normal cells"
+      ],
+      [
+        "Risk Groups",
+        "Treatment"
+      ],
+      [
+        "Care Team",
+        "Coordinates"
+      ],
+      [
+        "Brain",
+        "MRI"
+      ],
+      [
+        "Genetic Factors",
+        "Prostate Cancer"
+      ],
+      [
+        "Invasive Breast Cancer",
+        "Lymph Nodes"
+      ],
+      [
+        "Actinic Keratosis",
+        "Cryotherapy"
+      ],
+      [
+        "Cancer",
+        "Staging"
+      ],
+      [
+        "Biomarkers",
+        "Tumor"
+      ],
+      [
+        "Blood",
+        "Components"
+      ],
+      [
+        "Benign",
+        "Tumor"
+      ],
+      [
+        "Caregivers",
+        "Support"
+      ],
+      [
+        "Bladder",
+        "Ileal Conduit"
+      ],
+      [
+        "Molecular Testing",
+        "Tumor"
+      ],
+      [
+        "AJCC",
+        "Cancer"
+      ],
+      [
+        "Radical Trachelectomy",
+        "Stage 1A1"
+      ],
+      [
+        "Drugs and Supplements",
+        "PSA"
+      ],
+      [
+        "AML",
+        "Family History"
+      ],
+      [
+        "TSH Level",
+        "Thyroid Gland"
+      ],
+      [
+        "Colon Cancer",
+        "Polyps"
+      ],
+      [
+        "CT",
+        "Ovarian Cancer"
+      ],
+      [
+        "Locally advanced",
+        "Stage 3"
+      ],
+      [
+        "Care Team",
+        "Test Results"
+      ],
+      [
+        "Doctor",
+        "Hematologist"
+      ],
+      [
+        "Prostate Cancer",
+        "Treatment"
+      ],
+      [
+        "American Joint Committee on Cancer",
+        "Tumor, Node, Metastasis System"
+      ],
+      [
+        "Gene",
+        "Rearrangement"
+      ],
+      [
+        "Blood",
+        "BloodCells"
+      ],
+      [
+        "Blood tests",
+        "Recurrence detection"
+      ],
+      [
+        "Anal Cancer",
+        "Squamous Cells"
+      ],
+      [
+        "Grades",
+        "WHO"
+      ],
+      [
+        "Bowel blockage",
+        "Stent"
+      ],
+      [
+        "B-ALL",
+        "Burkitt lymphoma"
+      ],
+      [
+        "Bone Scan",
+        "Cancer Spread"
+      ],
+      [
+        "Alpelisib",
+        "PIK3CA"
+      ],
+      [
+        "Genetic Conditions",
+        "Radiation Therapy"
+      ],
+      [
+        "Blood tests",
+        "Genetic testing"
+      ],
+      [
+        "Dental Imaging",
+        "Panoramic Dental X-ray"
+      ],
+      [
+        "Radiation Therapy",
+        "Treatment Planning"
+      ],
+      [
+        "DNA Repair Genes",
+        "Gene"
+      ],
+      [
+        "Lymphatic System",
+        "Metastatic Prostate Cancer"
+      ],
+      [
+        "Adrenal Medulla",
+        "Hormones"
+      ],
+      [
+        "Low and High-risk CSCC",
+        "Standard Surgical Excision"
+      ],
+      [
+        "Mouth Cancer",
+        "NCCN.org"
+      ],
+      [
+        "ALL",
+        "Treatment"
+      ],
+      [
+        "Lung Cancers",
+        "Treatments"
+      ],
+      [
+        "Biomarker",
+        "Prognosis"
+      ],
+      [
+        "Genetic Features",
+        "MSI-H/dMMR"
+      ],
+      [
+        "Colon Cancer",
+        "Tumor, Node, Metastasis System"
+      ],
+      [
+        "Anal Cancer",
+        "Lymph Nodes"
+      ],
+      [
+        "RAI Therapy",
+        "Treatment"
+      ],
+      [
+        "Immunotherapy",
+        "Systemic Therapy"
+      ],
+      [
+        "Thyroid Cancer",
+        "Total Thyroidectomy"
+      ],
+      [
+        "Fertility-Sparing Treatment",
+        "Surgical Treatment"
+      ],
+      [
+        "Chemotherapy Drugs",
+        "Immunotherapy Drugs"
+      ],
+      [
+        "Blood Vessels",
+        "Stomach Cancer"
+      ],
+      [
+        "Ovarian Cancer",
+        "Stage 1B"
+      ],
+      [
+        "Pancreatic Cancer",
+        "Risk Factors"
+      ],
+      [
+        "Gliomas",
+        "Imaging"
+      ],
+      [
+        "Immunotherapy",
+        "Metastatic Squamous Cell Skin Cancer"
+      ],
+      [
+        "AML",
+        "Genetic Testing"
+      ],
+      [
+        "Cancer",
+        "Stage 2"
+      ],
+      [
+        "Biopsy",
+        "Tissue Sample"
+      ],
+      [
+        "Anal Cancer",
+        "CancerCare"
+      ],
+      [
+        "Epstein-Barr Virus",
+        "Lymph Node"
+      ],
+      [
+        "Endocrine Therapy",
+        "mTOR"
+      ],
+      [
+        "Hormone Production",
+        "Kidney"
+      ],
+      [
+        "Medical Evaluation",
+        "Physical Exam"
+      ],
+      [
+        "Anal Cancer",
+        "Risk Factors"
+      ],
+      [
+        "Peers",
+        "Support System"
+      ],
+      [
+        "Oropharynx",
+        "Throat Cancer"
+      ],
+      [
+        "BRCA Mutation",
+        "Tumor"
+      ],
+      [
+        "Checkpoint Inhibitors",
+        "Pembrolizumab"
+      ],
+      [
+        "Early Detection",
+        "Lung Cancers"
+      ],
+      [
+        "Patient",
+        "Primary Care Physician"
+      ],
+      [
+        "Colon Cancer",
+        "Stage 4"
+      ],
+      [
+        "Bone Marrow",
+        "Histology"
+      ],
+      [
+        "Diagnosed",
+        "HIV Testing"
+      ],
+      [
+        "Polyps",
+        "Resection"
+      ],
+      [
+        "Cancer",
+        "Imaging"
+      ],
+      [
+        "Family History",
+        "Prostate Cancer"
+      ],
+      [
+        "Blood stem cells",
+        "Progenitor Cells"
+      ],
+      [
+        "Radioactive Iodine Therapy",
+        "Remnant Ablation"
+      ],
+      [
+        "Life-threatening Side Effects",
+        "Side Effects"
+      ],
+      [
+        "Oropharynx",
+        "Throat"
+      ],
+      [
+        "Cancer",
+        "Staging and Grading"
+      ],
+      [
+        "Primary CNS Lymphoma",
+        "Treatment Options"
+      ],
+      [
+        "Breast Cancer",
+        "Staging"
+      ],
+      [
+        "Chromosome 22",
+        "Chromosome 9"
+      ],
+      [
+        "Test Results",
+        "Treatment Planning"
+      ],
+      [
+        "Anal Cancer",
+        "Lesions"
+      ],
+      [
+        "Family",
+        "Health Care Provider"
+      ],
+      [
+        "Upper Urinary Tract",
+        "Ureteroscopy"
+      ],
+      [
+        "Cancer",
+        "Radiotracers"
+      ],
+      [
+        "Polypectomy",
+        "Polyps"
+      ],
+      [
+        "Cancer Cells",
+        "Growth"
+      ],
+      [
+        "Cell",
+        "Urothelium"
+      ],
+      [
+        "Blood",
+        "Blood Stem Cells"
+      ],
+      [
+        "Biopsy",
+        "Ovarian Cancer"
+      ],
+      [
+        "CLL, SLL",
+        "Lymph System"
+      ],
+      [
+        "Pancreatic cancer",
+        "Signs and symptoms"
+      ],
+      [
+        "Cisplatin",
+        "Clinical Trials"
+      ],
+      [
+        "Blood",
+        "Stem Cells"
+      ],
+      [
+        "Cervical Cancer",
+        "Radiation Therapy"
+      ],
+      [
+        "Diagnosis",
+        "Tests"
+      ],
+      [
+        "Bone Scan",
+        "Doctor"
+      ],
+      [
+        "Lymph Node",
+        "Tumor"
+      ],
+      [
+        "CPX-351",
+        "Cytarabine"
+      ],
+      [
+        "Liver",
+        "NAFLD"
+      ],
+      [
+        "Dental Exam",
+        "Head and Neck Cancer"
+      ],
+      [
+        "Bone",
+        "Chondrosarcoma"
+      ],
+      [
+        "Cancer",
+        "Grading"
+      ],
+      [
+        "Throat Cancer",
+        "begins in"
+      ],
+      [
+        "Development",
+        "Grades"
+      ],
+      [
+        "NCCN Guidelines for Patients",
+        "NCCN.org/patient-guidelines"
+      ],
+      [
+        "Imaging",
+        "Tumor"
+      ],
+      [
+        "Tumor",
+        "Tumor Type"
+      ],
+      [
+        "Bone Scan",
+        "Prostate"
+      ],
+      [
+        "NCCN Guidelines for Patients",
+        "Treatment"
+      ],
+      [
+        "Esophageal Cancer",
+        "Lung"
+      ],
+      [
+        "Hematologic Oncologist",
+        "Treats"
+      ],
+      [
+        "High-risk or Very High-risk CSCC",
+        "PDEMA"
+      ],
+      [
+        "Cancer",
+        "Care Team"
+      ],
+      [
+        "Diet and Lifestyle",
+        "Prostate Cancer"
+      ],
+      [
+        "Biopsy",
+        "Skin"
+      ],
+      [
+        "MRI",
+        "Tissues"
+      ],
+      [
+        "Connective Tissue Diseases",
+        "Radiation"
+      ],
+      [
+        "Bones",
+        "Prostate Cancer"
+      ],
+      [
+        "Prostate",
+        "Semen"
+      ],
+      [
+        "Breast",
+        "Lymph Vessels"
+      ],
+      [
+        "Gli seeing",
+        "Recurrence"
+      ],
+      [
+        "Long-term Side Effects",
+        "Radiation Therapy"
+      ],
+      [
+        "Hearing Test",
+        "Tumors"
+      ],
+      [
+        "Anal Cancer",
+        "HIV"
+      ],
+      [
+        "Concept",
+        "Immunotherapy"
+      ],
+      [
+        "Pancreas",
+        "Pancreatic cancer"
+      ],
+      [
+        "NCCN",
+        "NCCN Guidelines for Patients"
+      ],
+      [
+        "Imaging",
+        "Oral Contrast"
+      ],
+      [
+        "Care Team",
+        "Patient Support"
+      ],
+      [
+        "MRI Scan",
+        "Prostate"
+      ],
+      [
+        "Cancer",
+        "Polyps"
+      ],
+      [
+        "Bladder",
+        "Kidneys"
+      ],
+      [
+        "Immunotherapy",
+        "Treatment"
+      ],
+      [
+        "Biomarkers",
+        "Recurrent Ovarian Cancer"
+      ],
+      [
+        "Small Metastases",
+        "Stereotactic Body Radiation Therapy"
+      ],
+      [
+        "AML",
+        "Imaging Tests"
+      ],
+      [
+        "Cervical Cancer",
+        "Chemoradiation"
+      ],
+      [
+        "HPV",
+        "p16"
+      ],
+      [
+        "Molecular Features",
+        "Tumor"
+      ],
+      [
+        "Areola",
+        "Breast"
+      ],
+      [
+        "Polyp",
+        "Polypectomy"
+      ],
+      [
+        "Consolidation Phase",
+        "Induction Phase"
+      ],
+      [
+        "Cancer Cells",
+        "Urothelial Cells"
+      ],
+      [
+        "HPV",
+        "Throat Cancer"
+      ],
+      [
+        "Ovarian Cancer",
+        "Surgical Staging"
+      ],
+      [
+        "Brain",
+        "Primary CNS Lymphoma"
+      ],
+      [
+        "Stage 1",
+        "Surgical Colectomy"
+      ],
+      [
+        "Cancer",
+        "Contraception"
+      ],
+      [
+        "Leukemia",
+        "Leukemic Meningitis"
+      ],
+      [
+        "Blood Tests",
+        "Colon Cancer"
+      ],
+      [
+        "Biopsy",
+        "Gleason Score"
+      ],
+      [
+        "Medical Tests",
+        "Treatment"
+      ],
+      [
+        "Pap test",
+        "Post-treatment"
+      ],
+      [
+        "Blood Clots",
+        "Surgery"
+      ],
+      [
+        "Mass",
+        "Stomach"
+      ],
+      [
+        "BRCA1",
+        "Olaparib"
+      ],
+      [
+        "HIV",
+        "Primary CNS lymphoma"
+      ],
+      [
+        "Head and Neck Exam",
+        "Physical Exam"
+      ],
+      [
+        "Bladder Cancer",
+        "Cigarette Smoking"
+      ],
+      [
+        "Local therapies",
+        "Tumors"
+      ],
+      [
+        "Eye",
+        "Intraocular Chemotherapy"
+      ],
+      [
+        "Ovarian Cancer",
+        "PARP Inhibitor"
+      ],
+      [
+        "Research Study",
+        "Study Sponsor"
+      ],
+      [
+        "Cancer Recurrence",
+        "Lymph Node"
+      ],
+      [
+        "Fertility",
+        "Specialist"
+      ],
+      [
+        "PCR",
+        "PCR Products"
+      ],
+      [
+        "Enlargement",
+        "Prostate"
+      ],
+      [
+        "Stage 0",
+        "Stage 1"
+      ],
+      [
+        "CML",
+        "Care Centers"
+      ],
+      [
+        "Blood Cancer Detection",
+        "Flow Cytometry"
+      ],
+      [
+        "Bowel",
+        "Colostomy"
+      ],
+      [
+        "Prostate Cancer",
+        "Tests"
+      ],
+      [
+        "Clinical Trials",
+        "Lung Cancer"
+      ],
+      [
+        "Mouth and throat cancers",
+        "NCCN.org/patientguidelines"
+      ],
+      [
+        "Systemic Therapy",
+        "Thyroid Cancer"
+      ],
+      [
+        "Curettage and Electrodesiccation",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Fertility",
+        "Fertility Specialist"
+      ],
+      [
+        "Lymph",
+        "Lymph Vessels"
+      ],
+      [
+        "Biopsy",
+        "Kidney Cancer"
+      ],
+      [
+        "Side Effects",
+        "Targeted Therapy"
+      ],
+      [
+        "5-FU",
+        "Chemoradiation"
+      ],
+      [
+        "Folic Acid",
+        "Protein Production"
+      ],
+      [
+        "Prostate Cancer",
+        "Risk Groups"
+      ],
+      [
+        "Performance Status",
+        "Treatment Planning"
+      ],
+      [
+        "Testing",
+        "Treatment Planning"
+      ],
+      [
+        "Imaging Tests",
+        "Leukemia"
+      ],
+      [
+        "Care Team",
+        "Medical History"
+      ],
+      [
+        "Cancer Severity",
+        "Grade Group"
+      ],
+      [
+        "Cone Biopsy",
+        "Endocervical Curettage"
+      ],
+      [
+        "Biopsy",
+        "Hormone Receptors"
+      ],
+      [
+        "Biopsy",
+        "Histology"
+      ],
+      [
+        "Chromosomal Translocation",
+        "Ewing Sarcoma"
+      ],
+      [
+        "Scars and Chronic Wounds",
+        "Skin Cancer"
+      ],
+      [
+        "Family History",
+        "Genetic Risk Testing"
+      ],
+      [
+        "Thyroid Gland",
+        "Thyroid Hormone Replacement Therapy"
+      ],
+      [
+        "Blood",
+        "Tumors"
+      ],
+      [
+        "Liver Cancer",
+        "Screening"
+      ],
+      [
+        "Cancer",
+        "Stage 4"
+      ],
+      [
+        "Biopsy",
+        "Primary CNS Lymphoma"
+      ],
+      [
+        "Body",
+        "CT Scan"
+      ],
+      [
+        "Fertility",
+        "Radiation"
+      ],
+      [
+        "Bladder, Bowel",
+        "Examinations Under Anesthesia"
+      ],
+      [
+        "Peritoneum",
+        "Stomach Cancer"
+      ],
+      [
+        "Abdominal Cramping",
+        "Irinotecan"
+      ],
+      [
+        "Early-Stage Cancer",
+        "Locally Advanced Cancer"
+      ],
+      [
+        "Egg Freezing",
+        "Fertility Preservation"
+      ],
+      [
+        "Bone",
+        "Cancer"
+      ],
+      [
+        "AML",
+        "Blood Tests"
+      ],
+      [
+        "Chronic Hepatitis B",
+        "Liver"
+      ],
+      [
+        "Cancer Cells",
+        "PARP"
+      ],
+      [
+        "Needle",
+        "Tumor"
+      ],
+      [
+        "Primary CNS Lymphoma",
+        "Treatments"
+      ],
+      [
+        "Prostate Cancer Cells",
+        "Prostate-Specific Membrane Antigen"
+      ],
+      [
+        "Imaging",
+        "Screening"
+      ],
+      [
+        "Gliomas",
+        "Progress"
+      ],
+      [
+        "Cancer Risk",
+        "PMS2"
+      ],
+      [
+        "Start the Conversation",
+        "Treatment Options"
+      ],
+      [
+        "Actinic Keratosis",
+        "Laser"
+      ],
+      [
+        "Biomarker Testing",
+        "Genes"
+      ],
+      [
+        "Lung",
+        "Metastasis"
+      ],
+      [
+        "CSF Testing",
+        "Lumbar Puncture"
+      ],
+      [
+        "Blood Stem Cells",
+        "CML"
+      ],
+      [
+        "Ovarian Cancer",
+        "Stage 4B"
+      ],
+      [
+        "Contrast Material",
+        "Imaging Clarity"
+      ],
+      [
+        "Radiation Therapy",
+        "Treatment"
+      ],
+      [
+        "Biopsy",
+        "Lymph Node"
+      ],
+      [
+        "Cancer",
+        "Radiation Therapy"
+      ],
+      [
+        "Bladder",
+        "Tumors"
+      ],
+      [
+        "Ultrasound",
+        "Urinary organs"
+      ],
+      [
+        "NLM",
+        "clinicaltrials.gov"
+      ],
+      [
+        "Lymphatic Vessels",
+        "Tumor"
+      ],
+      [
+        "Cancer Spread",
+        "Metastasis"
+      ],
+      [
+        "Digital Rectal Exams",
+        "Follow-up"
+      ],
+      [
+        "Genes",
+        "Mutations"
+      ],
+      [
+        "Maintenance Therapy",
+        "Niraparib"
+      ],
+      [
+        "Radioactive Iodine",
+        "Thyroid Gland"
+      ],
+      [
+        "Pelvic recurrence",
+        "Surgery"
+      ],
+      [
+        "Surgical Removal",
+        "Tumor"
+      ],
+      [
+        "Lung Carcinomas",
+        "NSCLC"
+      ],
+      [
+        "Ovarian Cancer",
+        "Stage 3C"
+      ],
+      [
+        "CD33",
+        "Targeted Therapy"
+      ],
+      [
+        "Cancer Risk",
+        "Weakened Immune System"
+      ],
+      [
+        "Adenocarcinoma",
+        "Anal Cancer"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Surgery"
+      ],
+      [
+        "Lung Cancer",
+        "Supportive Care"
+      ],
+      [
+        "Genetic Mutations",
+        "Ovarian Cancer"
+      ],
+      [
+        "Fertility-Sparing Surgery",
+        "Ovarian Cancer"
+      ],
+      [
+        "Lymphocytes",
+        "Primary CNS lymphoma"
+      ],
+      [
+        "Cervical Cancer Screening",
+        "Diagnosed"
+      ],
+      [
+        "HPV Testing",
+        "Throat (Oropharyngeal) Cancer"
+      ],
+      [
+        "Nasopharyngeal Carcinoma",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "T Stages",
+        "Tumor"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Radiation Therapy"
+      ],
+      [
+        "Follow-up Testing",
+        "Total Thyroidectomy"
+      ],
+      [
+        "Blood",
+        "Urine"
+      ],
+      [
+        "Cone Biopsy",
+        "Loop Electrosurgical Excision Procedure"
+      ],
+      [
+        "Germline Mutations",
+        "Inherited Mutations"
+      ],
+      [
+        "Metastatic Squamous Cell Skin Cancer",
+        "Surgery"
+      ],
+      [
+        "PSA",
+        "Prostate Cancer"
+      ],
+      [
+        "Method",
+        "Sentinel Lymph Node Biopsy"
+      ],
+      [
+        "Blood-Brain Barrier",
+        "High-Dose Methotrexate"
+      ],
+      [
+        "AML",
+        "Genetic Changes"
+      ],
+      [
+        "Surgical Options",
+        "Treatment"
+      ],
+      [
+        "Genetic Germline Testing",
+        "Germline"
+      ],
+      [
+        "Patient",
+        "Surgeon"
+      ],
+      [
+        "Metastatic Squamous Cell Skin Cancer",
+        "Radiation Therapy"
+      ],
+      [
+        "Imaging",
+        "Recurrence detection"
+      ],
+      [
+        "Liver",
+        "Prostate Cancer"
+      ],
+      [
+        "Airways",
+        "Bronchi"
+      ],
+      [
+        "Genomic Testing",
+        "Tumor"
+      ],
+      [
+        "Breast",
+        "Screening Mammogram"
+      ],
+      [
+        "Patients",
+        "Support and Counseling"
+      ],
+      [
+        "Photons",
+        "Radiation"
+      ],
+      [
+        "Adenocarcinoma",
+        "Cells lining alveoli"
+      ],
+      [
+        "Renal Cell Carcinoma",
+        "most common"
+      ],
+      [
+        "Lumbar Puncture",
+        "Spinal Fluid"
+      ],
+      [
+        "Polyps",
+        "Surgery"
+      ],
+      [
+        "Immunotherapy",
+        "Rituximab"
+      ],
+      [
+        "Biopsy",
+        "Lymph Nodes"
+      ],
+      [
+        "Genetic Risk Testing",
+        "Risk Assessment"
+      ],
+      [
+        "Staging",
+        "TNM System"
+      ],
+      [
+        "Large Intestine",
+        "Processing"
+      ],
+      [
+        "Care Team",
+        "Patient"
+      ],
+      [
+        "Anal Cancer",
+        "Chemotherapy"
+      ],
+      [
+        "Bile Duct",
+        "Cancer Staging"
+      ],
+      [
+        "Muscle Layer",
+        "Tumor"
+      ],
+      [
+        "Core Sample",
+        "Prostate"
+      ],
+      [
+        "Capecitabine",
+        "Side Effect"
+      ],
+      [
+        "Bladder Cancer",
+        "Urothelium"
+      ],
+      [
+        "Bone Marrow Aspirate",
+        "Diagnosis"
+      ],
+      [
+        "Biomarker Testing",
+        "Tumor"
+      ],
+      [
+        "AML",
+        "PML::RARA"
+      ],
+      [
+        "Dentists",
+        "Teeth"
+      ],
+      [
+        "Online Patient Portals",
+        "Test Results"
+      ],
+      [
+        "Squamous Cell Carcinoma",
+        "forms in"
+      ],
+      [
+        "Bladder",
+        "Bladder Cancer"
+      ],
+      [
+        "Blood Cell Formation",
+        "Blood Stem Cells"
+      ],
+      [
+        "T Score",
+        "Tumor"
+      ],
+      [
+        "Grades",
+        "ICC"
+      ],
+      [
+        "Blood Test",
+        "Prostate-specific Antigen"
+      ],
+      [
+        "Cell",
+        "Type"
+      ],
+      [
+        "Genes",
+        "Tumor Mutational Burden"
+      ],
+      [
+        "Brain",
+        "Esophageal Cancer"
+      ],
+      [
+        "Care Team",
+        "Thoracic Surgeon"
+      ],
+      [
+        "Nasopharyngeal Cancer",
+        "TNM System"
+      ],
+      [
+        "Cancers",
+        "Germline Mutations"
+      ],
+      [
+        "Lymphoblasts",
+        "Lymphoid progenitor cells"
+      ],
+      [
+        "Lung Cancer",
+        "Lung Nodule"
+      ],
+      [
+        "Anal Cancer",
+        "History"
+      ],
+      [
+        "B-ALL",
+        "Leukemia"
+      ],
+      [
+        "LHRH Agonist",
+        "Prostate Cancer"
+      ],
+      [
+        "Chemoradiation",
+        "Modified DCF Regimen"
+      ],
+      [
+        "Blood Transfusion",
+        "Stem Cell Rescue"
+      ],
+      [
+        "Anoscopy",
+        "recurrence"
+      ],
+      [
+        "Anal Cancer",
+        "Colorectal Cancer Alliance"
+      ],
+      [
+        "Bladder",
+        "Prostate"
+      ],
+      [
+        "Hepatitis",
+        "Liver"
+      ],
+      [
+        "Medical Binder",
+        "Medical Records"
+      ],
+      [
+        "Pelvis",
+        "Tumor"
+      ],
+      [
+        "Ewing Sarcoma",
+        "Gene Fusion"
+      ],
+      [
+        "Hepatitis B Virus",
+        "Liver"
+      ],
+      [
+        "Gene",
+        "Translocation"
+      ],
+      [
+        "Lymph Node",
+        "Sentinel Lymph Node"
+      ],
+      [
+        "Blood tests",
+        "Monitoring"
+      ],
+      [
+        "Cancer Cells",
+        "Lymph Nodes"
+      ],
+      [
+        "Cancer",
+        "Metastasis"
+      ],
+      [
+        "Actinic Keratosis",
+        "Curettage"
+      ],
+      [
+        "Kidneys",
+        "Ureters"
+      ],
+      [
+        "Breast Cancer",
+        "Invasive Breast Cancer"
+      ],
+      [
+        "Size",
+        "Tumor"
+      ],
+      [
+        "AML",
+        "Blood"
+      ],
+      [
+        "Growth",
+        "Small Cell Lung Cancer"
+      ],
+      [
+        "Prognosis",
+        "Staging"
+      ],
+      [
+        "Skull Base",
+        "Tumor"
+      ],
+      [
+        "Clinical Trials Search",
+        "NCI"
+      ],
+      [
+        "Adrenal Tumors",
+        "MRI"
+      ],
+      [
+        "Chemotherapy",
+        "Primary CNS Lymphoma"
+      ],
+      [
+        "Healing",
+        "Wound"
+      ],
+      [
+        "Ejaculation and Exercise",
+        "PSA"
+      ],
+      [
+        "Diagnosis",
+        "MRI"
+      ],
+      [
+        "NCCN Guidelines for Patients",
+        "patient"
+      ],
+      [
+        "PET",
+        "Radiotracers"
+      ],
+      [
+        "Biopsy",
+        "PSA Level"
+      ],
+      [
+        "Bladder Cancer Treatment Side Effects",
+        "Post-treatment"
+      ],
+      [
+        "Blood",
+        "Cancer"
+      ],
+      [
+        "Masticator Space",
+        "Tumor"
+      ],
+      [
+        "Clinical Trials",
+        "Starting the Conversation"
+      ],
+      [
+        "Blood",
+        "Infection"
+      ],
+      [
+        "Testicular",
+        "Ultrasound"
+      ],
+      [
+        "Spine",
+        "Vertebrae"
+      ],
+      [
+        "GnRH",
+        "LHRH"
+      ],
+      [
+        "Thyroid Hormone Replacement Therapy",
+        "Thyroidectomy"
+      ],
+      [
+        "Lynch Syndrome",
+        "Mismatch Repair Deficiency"
+      ],
+      [
+        "Invasive Breast Cancer",
+        "Lymph"
+      ],
+      [
+        "Bladder",
+        "Layers"
+      ],
+      [
+        "Care Team",
+        "Supportive Care"
+      ],
+      [
+        "EBV-related Cancer",
+        "Nasopharyngeal Cancer"
+      ],
+      [
+        "Bone",
+        "Ewing Sarcoma"
+      ],
+      [
+        "Family History",
+        "Medical History"
+      ],
+      [
+        "Genetic Tests",
+        "Prostate"
+      ],
+      [
+        "Prognosis",
+        "is"
+      ],
+      [
+        "Ovarian Cancer",
+        "Stage 3A1"
+      ],
+      [
+        "Chemotherapy",
+        "Schedule"
+      ],
+      [
+        "Astrocytoma",
+        "Biomarker"
+      ],
+      [
+        "Esophagoscopy",
+        "Esophagus Examination"
+      ],
+      [
+        "Signs of Pancreatic Cancer",
+        "Symptoms"
+      ],
+      [
+        "Follow-up",
+        "Treatment"
+      ],
+      [
+        "Cancer Spread",
+        "Liver"
+      ],
+      [
+        "Airways",
+        "Trachea"
+      ],
+      [
+        "Airway Examination",
+        "Bronchoscopy"
+      ],
+      [
+        "Spine",
+        "Tumor"
+      ],
+      [
+        "Sexual Dysfunction",
+        "Side Effects"
+      ],
+      [
+        "Testing",
+        "Treatment"
+      ],
+      [
+        "Performance Status",
+        "Treatment"
+      ],
+      [
+        "Medical Oncologist",
+        "Person"
+      ],
+      [
+        "Imaging Tests",
+        "Kidney Cancer"
+      ],
+      [
+        "Anoscopy",
+        "Diagnosed"
+      ],
+      [
+        "Flow Cytometry",
+        "Immunophenotype"
+      ],
+      [
+        "Renal Cell Carcinoma",
+        "subtypes"
+      ],
+      [
+        "Bladder",
+        "Cancer"
+      ],
+      [
+        "Bladder",
+        "Cancer Stage"
+      ],
+      [
+        "Lung Cancers",
+        "Subtypes"
+      ],
+      [
+        "PD-1",
+        "PD-L1"
+      ],
+      [
+        "Book",
+        "Chapters"
+      ],
+      [
+        "Cancer Detection",
+        "PET Scan"
+      ],
+      [
+        "Neurosurgeon",
+        "Skin"
+      ],
+      [
+        "Guidelines",
+        "NCCN"
+      ],
+      [
+        "Neuroblastoma",
+        "Other"
+      ],
+      [
+        "Brachytherapy",
+        "Cancer"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Tanning Beds"
+      ],
+      [
+        "CNS",
+        "Leukemia"
+      ],
+      [
+        "Actinic Keratosis",
+        "Diclofenac"
+      ],
+      [
+        "Chromosome",
+        "Human Cells"
+      ],
+      [
+        "Chemotherapy",
+        "Regimen"
+      ],
+      [
+        "Biopsy",
+        "Invasive Test"
+      ],
+      [
+        "Bladder",
+        "TURBT"
+      ],
+      [
+        "Genetic Counselor",
+        "Genetic Germline Testing"
+      ],
+      [
+        "Colon",
+        "Polyp"
+      ],
+      [
+        "Clinical Trials",
+        "Placebos"
+      ],
+      [
+        "Follow-up",
+        "Total Thyroidectomy"
+      ],
+      [
+        "Skin Cancer",
+        "Surgical Treatment"
+      ],
+      [
+        "Imaging Tests",
+        "Leukemia Spread"
+      ],
+      [
+        "Ovarian Cancer",
+        "Platinum-Sensitive Cancer"
+      ],
+      [
+        "Method",
+        "Targeted Therapy"
+      ],
+      [
+        "Ovarian Cancer",
+        "Supporting Tissues"
+      ],
+      [
+        "Chemotherapy",
+        "Stem Cell Rescue"
+      ],
+      [
+        "Hemoglobin and Body Functions",
+        "Iron"
+      ],
+      [
+        "Health History",
+        "Patient"
+      ],
+      [
+        "Biopsy",
+        "HER2 Status"
+      ],
+      [
+        "Anal Cancer",
+        "Tumor"
+      ],
+      [
+        "Anal Cancer",
+        "Symptoms"
+      ],
+      [
+        "Prostate",
+        "Race"
+      ],
+      [
+        "Kidneys,Ureters,Bladder",
+        "Renal Ultrasound"
+      ],
+      [
+        "Lung",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Fertility",
+        "Radiation Therapy"
+      ],
+      [
+        "Radioactive Iodine Therapy",
+        "Thyroid Cancer"
+      ],
+      [
+        "Cancer Care",
+        "Supportive Care"
+      ],
+      [
+        "Carboplatin",
+        "Chemotherapy"
+      ],
+      [
+        "Cervical Dysplasia",
+        "Transformation Zone"
+      ],
+      [
+        "Intravesical Therapy",
+        "Side Effects"
+      ],
+      [
+        "Body",
+        "Brain CT Scan"
+      ],
+      [
+        "Further treatment",
+        "Radiation therapy"
+      ],
+      [
+        "Breast Cancer",
+        "Metastasis"
+      ],
+      [
+        "Imaging",
+        "Stage 4B"
+      ],
+      [
+        "BCR::ABL",
+        "Chromosomes 9 and 22"
+      ],
+      [
+        "Post-Surgery",
+        "Treatment"
+      ],
+      [
+        "Family",
+        "Health History"
+      ],
+      [
+        "Chemoradiation",
+        "Locally Advanced Cancer"
+      ],
+      [
+        "Anal Cancer",
+        "Blood Cancer"
+      ],
+      [
+        "Imaging Tests",
+        "NPC"
+      ],
+      [
+        "Follow-up",
+        "total thyroidectomy"
+      ],
+      [
+        "Chapter 9",
+        "Osteosarcoma"
+      ],
+      [
+        "Bladder Cancer",
+        "Treatments"
+      ],
+      [
+        "Methotrexate",
+        "Primary CNS Lymphoma"
+      ],
+      [
+        "CLL",
+        "SLL"
+      ],
+      [
+        "Head and Neck Cancers",
+        "NPC"
+      ],
+      [
+        "Cancer Detection",
+        "Tumor Markers"
+      ],
+      [
+        "Lungs",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Medical Binder",
+        "Records"
+      ],
+      [
+        "Clinical Trial",
+        "Study Sponsor"
+      ],
+      [
+        "Immunotherapy Response",
+        "Tumor Mutational Burden"
+      ],
+      [
+        "Cancer Treatments",
+        "Hepatitis C"
+      ],
+      [
+        "Anal Cancer",
+        "Cancer Support Community"
+      ],
+      [
+        "PSMA/PET",
+        "Prostate Cancer"
+      ],
+      [
+        "Testing",
+        "Vitreous"
+      ],
+      [
+        "Colon Cancer",
+        "Stage 0"
+      ],
+      [
+        "Anal Cancer",
+        "Follow-up Care"
+      ],
+      [
+        "Bone",
+        "Thyroid Cancer"
+      ],
+      [
+        "Pelvic Floor",
+        "Pelvic Floor Physical Therapy"
+      ],
+      [
+        "Smoking",
+        "Treatment"
+      ],
+      [
+        "Biopsy",
+        "Receptor Status"
+      ],
+      [
+        "Cervical cancer",
+        "Systemic therapy"
+      ],
+      [
+        "Cancer",
+        "Distant Organs"
+      ],
+      [
+        "DNA or RNA",
+        "PCR"
+      ],
+      [
+        "Cancer Cells",
+        "PET Scan"
+      ],
+      [
+        "Bone Marrow",
+        "Lymphoblasts"
+      ],
+      [
+        "Screening",
+        "ctDNA"
+      ],
+      [
+        "Aldosteronoma",
+        "Hormone Overproduction"
+      ],
+      [
+        "Chemotherapy",
+        "Systemic Therapy"
+      ],
+      [
+        "Anal Cancer",
+        "Genetic Tests"
+      ],
+      [
+        "Bladder",
+        "Cancers Types"
+      ],
+      [
+        "Anthracyclines",
+        "Chemotherapy"
+      ],
+      [
+        "CT",
+        "Rectal Cancer"
+      ],
+      [
+        "Family History",
+        "Patient"
+      ],
+      [
+        "CSF",
+        "Intrathecal Chemotherapy"
+      ],
+      [
+        "Everolimus",
+        "Exemestane"
+      ],
+      [
+        "Blood Tests",
+        "Imaging Results"
+      ],
+      [
+        "Blood Test",
+        "Immunophenotyping"
+      ],
+      [
+        "Cancer",
+        "Diagnostic Tests"
+      ],
+      [
+        "High-risk or Very High-risk CSCC",
+        "Mohs Surgery"
+      ],
+      [
+        "Contrast Dye",
+        "Imaging Tests"
+      ],
+      [
+        "Doctor",
+        "Imaging Tests"
+      ],
+      [
+        "Genetic Risk Testing",
+        "Test"
+      ],
+      [
+        "Cancer Treatments",
+        "Hepatitis B"
+      ],
+      [
+        "Checkpoint Inhibitors",
+        "Nivolumab"
+      ],
+      [
+        "Direct Laryngoscopy",
+        "Throat Examination"
+      ],
+      [
+        "Staging",
+        "aids"
+      ],
+      [
+        "Chapter 5",
+        "Chondrosarcoma"
+      ],
+      [
+        "Cervical Cancer",
+        "HPV"
+      ],
+      [
+        "Blasts",
+        "White Blood Cells"
+      ],
+      [
+        "Tumor",
+        "Type"
+      ],
+      [
+        "Guiding Treatment",
+        "Staging"
+      ],
+      [
+        "B-cell Lymphoblast",
+        "B-cell Lymphoblastic Lymphoma"
+      ],
+      [
+        "Bone Marrow Tests",
+        "Leukemia"
+      ],
+      [
+        "Contrast Material",
+        "Patient"
+      ],
+      [
+        "Hepatic Veins",
+        "Liver"
+      ],
+      [
+        "EBRT",
+        "Ovarian Transposition"
+      ],
+      [
+        "Imaging",
+        "Pancreatic Cancer"
+      ],
+      [
+        "Cancer",
+        "Fertility Preservation"
+      ],
+      [
+        "Bladder",
+        "Cystoscopy"
+      ],
+      [
+        "Adrenal Glands",
+        "Adrenal Tumors"
+      ],
+      [
+        "Chemotherapy",
+        "MGZL"
+      ],
+      [
+        "Treatment Process",
+        "Treatment Visits"
+      ],
+      [
+        "Age",
+        "Primary CNS lymphoma"
+      ],
+      [
+        "Cervical Cancer",
+        "EBRT"
+      ],
+      [
+        "Levoxyl",
+        "Thyroid Cancer"
+      ],
+      [
+        "Ovarian Cancer",
+        "Stage 2B"
+      ],
+      [
+        "ALL",
+        "Bone Marrow"
+      ],
+      [
+        "Head and Neck",
+        "Lymph Nodes"
+      ],
+      [
+        "HPV",
+        "HPV16"
+      ],
+      [
+        "Cancer Risk",
+        "Smoking"
+      ],
+      [
+        "Bleeding Detection",
+        "Brain CT Scan"
+      ],
+      [
+        "Catheter",
+        "Stoma"
+      ],
+      [
+        "Chemotherapy",
+        "Treatment Cycles"
+      ],
+      [
+        "Cervical Biopsy",
+        "Pathologist"
+      ],
+      [
+        "Detection",
+        "Surgical Staging"
+      ],
+      [
+        "Applicator",
+        "Tandem and Ring Applicator"
+      ],
+      [
+        "Lymph Nodes",
+        "Tumor"
+      ],
+      [
+        "Cisplatin",
+        "Kidney Damage"
+      ],
+      [
+        "Blood",
+        "Lymphoblasts"
+      ],
+      [
+        "Biopsy",
+        "Chemotherapy"
+      ],
+      [
+        "Develop into",
+        "Lymphoid progenitor cells"
+      ],
+      [
+        "Risk Factors",
+        "Tobacco and Alcohol Use"
+      ],
+      [
+        "Concept",
+        "Radiation Therapy"
+      ],
+      [
+        "Capecitabine",
+        "Chemotherapy"
+      ],
+      [
+        "5-FU",
+        "Leucovorin"
+      ],
+      [
+        "Ostomy",
+        "Physical Activity"
+      ],
+      [
+        "Cirrhosis",
+        "Liver"
+      ],
+      [
+        "Advanced-Stage Prostate Cancer",
+        "Metastatic Prostate Cancer"
+      ],
+      [
+        "Alveoli",
+        "Lungs"
+      ],
+      [
+        "Blood",
+        "Lymphocytes"
+      ],
+      [
+        "Cancer",
+        "PD-L1"
+      ],
+      [
+        "Cancer Cells",
+        "Genetic Mutations"
+      ],
+      [
+        "Bladder Cancer",
+        "Recurrence"
+      ],
+      [
+        "AML Mutation Testing",
+        "Genetic Abnormalities"
+      ],
+      [
+        "Cancer",
+        "Testicles"
+      ],
+      [
+        "Ostomy",
+        "Support"
+      ],
+      [
+        "Distant Organs",
+        "Tumor"
+      ],
+      [
+        "Brachytherapy",
+        "HDR Brachytherapy"
+      ],
+      [
+        "Epidermis",
+        "Squamous Cells"
+      ],
+      [
+        "Cerebrospinal Fluid",
+        "Intrathecal Chemotherapy"
+      ],
+      [
+        "Chapter 7",
+        "Ewing Sarcoma"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Basal Cells"
+      ],
+      [
+        "Body",
+        "FDG-PET/CT"
+      ],
+      [
+        "Surgery",
+        "Treatment"
+      ],
+      [
+        "Lymphoma",
+        "MRI Scan"
+      ],
+      [
+        "Blood Test",
+        "Genetic Changes"
+      ],
+      [
+        "Cell Staining",
+        "Immunohistochemistry"
+      ],
+      [
+        "Biomarkers",
+        "Treatment"
+      ],
+      [
+        "Metastatic Breast Cancer",
+        "Other"
+      ],
+      [
+        "Biopsy",
+        "Imaging Studies"
+      ],
+      [
+        "Epidermis",
+        "Skin Biopsy"
+      ],
+      [
+        "Examination",
+        "Fiberoptic Nasopharyngolaryngoscopy"
+      ],
+      [
+        "Chemotherapy",
+        "Stage 3"
+      ],
+      [
+        "Head and Neck Cancer Surgery",
+        "Pre-anesthesia Exam"
+      ],
+      [
+        "Actinic Keratosis",
+        "Tazarotene"
+      ],
+      [
+        "Distant Spread",
+        "M"
+      ],
+      [
+        "Contrast Agents",
+        "Imaging"
+      ],
+      [
+        "HLA",
+        "Transplant Compatibility"
+      ],
+      [
+        "Cirrrhosis",
+        "Risk Factor"
+      ],
+      [
+        "Cancer",
+        "Lung"
+      ],
+      [
+        "AML",
+        "Diagnostic Tests"
+      ],
+      [
+        "Actinic Keratosis",
+        "Topical Keratolytics"
+      ],
+      [
+        "AML",
+        "Bone Marrow"
+      ],
+      [
+        "Estrogen, Progesterone",
+        "Ovaries"
+      ],
+      [
+        "Neurosurgeon",
+        "Operating Room"
+      ],
+      [
+        "Patient Portals",
+        "Test Results"
+      ],
+      [
+        "Blood Vessels",
+        "Thyroid"
+      ],
+      [
+        "Biomarker",
+        "Pembrolizumab"
+      ],
+      [
+        "Primary CNS Lymphoma",
+        "Radiation Therapy"
+      ],
+      [
+        "Follow-up visits",
+        "Physical exams"
+      ],
+      [
+        "AML",
+        "Complete Blood Count"
+      ],
+      [
+        "Glioma",
+        "Type"
+      ],
+      [
+        "Concept",
+        "Surveillance"
+      ],
+      [
+        "Cancer Spread",
+        "Lymph Nodes"
+      ],
+      [
+        "Cancer",
+        "Stage 0"
+      ],
+      [
+        "Other biomarkers",
+        "Testing"
+      ],
+      [
+        "Blood Tests",
+        "Organ Function"
+      ],
+      [
+        "Biomarker Testing",
+        "Targeted Therapy"
+      ],
+      [
+        "Cancer Cells",
+        "Chemotherapy"
+      ],
+      [
+        "Cancer Treatment",
+        "Managing Side Effects"
+      ],
+      [
+        "Clear Cell RCC",
+        "most common"
+      ],
+      [
+        "Biopsy",
+        "Urologist"
+      ],
+      [
+        "Stomach",
+        "Stomach Cancer"
+      ],
+      [
+        "Cancer Treatment",
+        "Lung Function Tests"
+      ],
+      [
+        "Pelvic Lymph Node Evaluation",
+        "Stage 1A1"
+      ],
+      [
+        "Adrenal Gland",
+        "Adrenal Tumor"
+      ],
+      [
+        "Cancer Treatment",
+        "Fertility"
+      ],
+      [
+        "Bladder",
+        "Stage 4"
+      ],
+      [
+        "Cancer Follow-up",
+        "Healthy Habits"
+      ],
+      [
+        "Blood",
+        "Blood stem cells"
+      ],
+      [
+        "Post-treatment",
+        "TSH Suppression"
+      ],
+      [
+        "Metastatic Bladder Cancer",
+        "Treatment"
+      ],
+      [
+        "Biomarker Testing",
+        "Risk Assessment"
+      ],
+      [
+        "BCG",
+        "Breach"
+      ],
+      [
+        "Gleason Patterns",
+        "Gleason Score"
+      ],
+      [
+        "Brain MRI Scan",
+        "Meningitis"
+      ],
+      [
+        "Cancer",
+        "Smokers and Vapers"
+      ],
+      [
+        "Blood Cells",
+        "CML"
+      ],
+      [
+        "Genetic Conditions",
+        "Radiation"
+      ],
+      [
+        "Chemoradiation",
+        "Post-Surgery"
+      ],
+      [
+        "Biopsy",
+        "Gliomas"
+      ],
+      [
+        "Cancer",
+        "PET/CT"
+      ],
+      [
+        "Ureteroscopy",
+        "Ureters"
+      ],
+      [
+        "Clinical Trial",
+        "Research Study"
+      ],
+      [
+        "NCCN Guidelines for Patients",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Glioma",
+        "Recurrence"
+      ],
+      [
+        "Family Members",
+        "Support System"
+      ],
+      [
+        "Preparation for Treatment",
+        "Treatment Duration"
+      ],
+      [
+        "Loop Electrosurgical Excision Procedure",
+        "Tissue"
+      ],
+      [
+        "Systemic therapy",
+        "Treatment"
+      ],
+      [
+        "Ovarian Tumor",
+        "Ultrasound"
+      ],
+      [
+        "Cancer Stage",
+        "Treatment"
+      ],
+      [
+        "Clinical Trial",
+        "Eligibility Criteria"
+      ],
+      [
+        "Bladder Cancer",
+        "Family Member"
+      ],
+      [
+        "Colon Cancer",
+        "Testing"
+      ],
+      [
+        "MRI",
+        "Rectal Cancer"
+      ],
+      [
+        "Cancer",
+        "Immunotherapy"
+      ],
+      [
+        "5-FU",
+        "Oxaliplatin"
+      ],
+      [
+        "Biopsy",
+        "Steroids"
+      ],
+      [
+        "Airways",
+        "Bronchioli"
+      ],
+      [
+        "Adenocarcinoma",
+        "Lung"
+      ],
+      [
+        "Combined Small and Non-Small Cell Lung Carcinoma",
+        "Lung Cancers"
+      ],
+      [
+        "AJCC",
+        "Staging System"
+      ],
+      [
+        "Blood Tests",
+        "Comprehensive Metabolic Panel"
+      ],
+      [
+        "Cancer",
+        "Lymph Node"
+      ],
+      [
+        "Genetics",
+        "Translocation RCC"
+      ],
+      [
+        "Open MRI",
+        "Patient"
+      ],
+      [
+        "Classification",
+        "Glioma"
+      ],
+      [
+        "Cemiplimab-rwlc (Libtayo)",
+        "Immunotherapy"
+      ],
+      [
+        "CNS",
+        "Memory Problems"
+      ],
+      [
+        "Cervical Dysplasia",
+        "Cervical Stroma"
+      ],
+      [
+        "Cancers",
+        "HPV"
+      ],
+      [
+        "Prostate",
+        "Ultrasound"
+      ],
+      [
+        "Breast",
+        "Health Care Providers"
+      ],
+      [
+        "CT scan",
+        "Cancer spread"
+      ],
+      [
+        "Debulking Surgery",
+        "Ovarian Cancer"
+      ],
+      [
+        "Biopsy Method",
+        "Fine-Needle Aspiration"
+      ],
+      [
+        "Memory Problems",
+        "Neurological Impact"
+      ],
+      [
+        "Thyadenog",
+        "Thyroid Hormone Replacement Therapy"
+      ],
+      [
+        "AIN",
+        "Anal Dysplasia"
+      ],
+      [
+        "Bladder",
+        "Blood"
+      ],
+      [
+        "Metastasis",
+        "PET"
+      ],
+      [
+        "Hormone Receptor",
+        "Hormone Receptor-Positive"
+      ],
+      [
+        "Blood Vessels",
+        "Cancer"
+      ],
+      [
+        "Anal Cancer Treatment",
+        "Bowel, Bladder, Sexual Function"
+      ],
+      [
+        "Post-treatment",
+        "Surveillance"
+      ],
+      [
+        "Digital Rectal Exams",
+        "recurrence"
+      ],
+      [
+        "Chronic Hepatitis B",
+        "Risk Factor"
+      ],
+      [
+        "Chromosomes",
+        "Mutations"
+      ],
+      [
+        "Bone Marrow",
+        "Myeloblasts"
+      ],
+      [
+        "Care Team",
+        "Doctor"
+      ],
+      [
+        "Biopsy",
+        "Tumor"
+      ],
+      [
+        "Lymph Nodes",
+        "Sentinel Lymph Node Biopsy"
+      ],
+      [
+        "Ovarian Cancer",
+        "Platinum-Resistant Cancer"
+      ],
+      [
+        "Ovarian Cancer",
+        "Stage 4"
+      ],
+      [
+        "Lymph Node",
+        "Spread"
+      ],
+      [
+        "Anal Cancer",
+        "Immunosuppressant"
+      ],
+      [
+        "Cancer Treatment",
+        "Side Effects"
+      ],
+      [
+        "Care Team",
+        "Medical Documents"
+      ],
+      [
+        "Cancer",
+        "Ultrasound"
+      ],
+      [
+        "Liver",
+        "Screening"
+      ],
+      [
+        "Cancer Cells",
+        "Lymph Vessels"
+      ],
+      [
+        "High-Risk Features",
+        "Post-Surgical Pathology"
+      ],
+      [
+        "Biopsy",
+        "Blood and Tissue Tests"
+      ],
+      [
+        "G2",
+        "Grade"
+      ],
+      [
+        "Hematologist",
+        "Person"
+      ],
+      [
+        "Dismission",
+        "Self-Care"
+      ],
+      [
+        "Pelvic Floor Exercises",
+        "Urinary Incontinence"
+      ],
+      [
+        "Imaging",
+        "Localization"
+      ],
+      [
+        "Blood",
+        "Blood Cells"
+      ],
+      [
+        "Distant Organs, Lymph Nodes",
+        "Stage 4"
+      ],
+      [
+        "Anal Dysplasia",
+        "HRA"
+      ],
+      [
+        "Body",
+        "IntraVenous (IV) Contrast"
+      ],
+      [
+        "Genes",
+        "Tumor Testing"
+      ],
+      [
+        "Cancer",
+        "Skin Biopsy"
+      ],
+      [
+        "Metastatic Cancer",
+        "Stage IV Anal Cancer"
+      ],
+      [
+        "Immunotherapy",
+        "PD-L1"
+      ],
+      [
+        "Metastasis",
+        "Prostate Cancer"
+      ],
+      [
+        "Blood Clots",
+        "High-grade Gliomas"
+      ],
+      [
+        "Diagnosis",
+        "Endoscopy"
+      ],
+      [
+        "PET Scan",
+        "Radioactive Tracer"
+      ],
+      [
+        "Breast Cancer",
+        "Hormone Receptors"
+      ],
+      [
+        "Blood Tests",
+        "Monitoring"
+      ],
+      [
+        "Anal Cancer",
+        "HPV Vaccine"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Squamous Cells"
+      ],
+      [
+        "Imaging Tests",
+        "Testing for ALL"
+      ],
+      [
+        "Clinical Trial",
+        "Eligible Participants"
+      ],
+      [
+        "Genetic Testing",
+        "Hereditary Cancer"
+      ],
+      [
+        "Health Care Provider",
+        "Oropharynx"
+      ],
+      [
+        "MGZL",
+        "Treatment"
+      ],
+      [
+        "Early Skin Cancer",
+        "Superficial Treatments"
+      ],
+      [
+        "Prostate",
+        "Risk Factors"
+      ],
+      [
+        "Bone",
+        "Bone Marrow"
+      ],
+      [
+        "Fertility",
+        "Fertility Preservation"
+      ],
+      [
+        "AML",
+        "Requires"
+      ],
+      [
+        "Systemic Therapy",
+        "Works throughout"
+      ],
+      [
+        "Intrahepatic Cholangiocarcinoma",
+        "Liver"
+      ],
+      [
+        "Local Spread",
+        "Tumor"
+      ],
+      [
+        "Stage",
+        "Tumor"
+      ],
+      [
+        "Cancer Staging",
+        "Treatment"
+      ],
+      [
+        "Head and Neck",
+        "Palpation"
+      ],
+      [
+        "Return to Activities",
+        "Support System"
+      ],
+      [
+        "CLL",
+        "Immunophenotype"
+      ],
+      [
+        "Lymph Nodes",
+        "MRI"
+      ],
+      [
+        "Contrast",
+        "Imaging Tests"
+      ],
+      [
+        "Cancer",
+        "Cone Biopsy"
+      ],
+      [
+        "CML Specialist",
+        "Patient"
+      ],
+      [
+        "AML",
+        "requires"
+      ],
+      [
+        "Biomarker testing",
+        "Recurrent cervical cancer"
+      ],
+      [
+        "Acute Lymphoblastic Leukemia",
+        "Lymphocytes"
+      ],
+      [
+        "Cancer Patients",
+        "Supportive Care"
+      ],
+      [
+        "Diagnosis and Treatment Planning",
+        "Genetic and Biomarker Testing"
+      ],
+      [
+        "CT Scan",
+        "Imaging"
+      ],
+      [
+        "Bladder Cancer",
+        "Lynch Syndrome"
+      ],
+      [
+        "Cancer",
+        "Prognosis"
+      ],
+      [
+        "Blood",
+        "Myeloblasts"
+      ],
+      [
+        "Head and Neck Cancer",
+        "Smoking"
+      ],
+      [
+        "Acute Myeloid Leukemia",
+        "Blood"
+      ],
+      [
+        "Colon Cancer",
+        "Familial Adenomatous Polyposis"
+      ],
+      [
+        "Biopsy",
+        "HRA"
+      ],
+      [
+        "Cervical Intraepithelial Neoplasia (CIN)",
+        "Transformation Zone"
+      ],
+      [
+        "Biopsy",
+        "Method"
+      ],
+      [
+        "Laboratory",
+        "Tissue Sample"
+      ],
+      [
+        "Anal Dysplasia",
+        "Biopsy"
+      ],
+      [
+        "Breast",
+        "Cancer"
+      ],
+      [
+        "Diagnosis",
+        "Treatment"
+      ],
+      [
+        "Cancer Cells",
+        "Mutations"
+      ],
+      [
+        "Liver",
+        "MRI"
+      ],
+      [
+        "Prostate Cancer",
+        "Prostate-specific Antigen"
+      ],
+      [
+        "NPC",
+        "Nasopharynx"
+      ],
+      [
+        "Prostate-specific Antigen",
+        "Urine Test"
+      ],
+      [
+        "Gliomas",
+        "Recurrence"
+      ],
+      [
+        "Neurosurgeon",
+        "Stereotactic Biopsy"
+      ],
+      [
+        "Cancer",
+        "PET"
+      ],
+      [
+        "Bladder Cancer",
+        "Secondhand Smoke"
+      ],
+      [
+        "Germinal Centers",
+        "Growth"
+      ],
+      [
+        "CT Scan",
+        "Contrast Material"
+      ],
+      [
+        "Hinders",
+        "Systemic Therapy"
+      ],
+      [
+        "Ovarian Cancer",
+        "Surveillance"
+      ],
+      [
+        "Cancer",
+        "Lymph Node Dissection"
+      ],
+      [
+        "Organ transplant",
+        "Primary CNS lymphoma"
+      ],
+      [
+        "IDH1 Mutation",
+        "Targeted Therapy"
+      ],
+      [
+        "Prostate",
+        "Prostate Cancer"
+      ],
+      [
+        "Avelumab",
+        "Checkpoint Inhibitors"
+      ],
+      [
+        "Adrenal Medulla",
+        "Pheochromocytoma"
+      ],
+      [
+        "Applicator",
+        "Brachytherapy"
+      ],
+      [
+        "Aromatase",
+        "Letrozole"
+      ],
+      [
+        "Colon",
+        "Colostomy"
+      ],
+      [
+        "Lymphoblastic Leukemia",
+        "Lymphocytes"
+      ],
+      [
+        "Carboplatin",
+        "Paclitaxel"
+      ],
+      [
+        "High-Risk",
+        "Tumor in Damaged Skin"
+      ],
+      [
+        "AML",
+        "Lumbar Puncture"
+      ],
+      [
+        "Cancer Growth",
+        "Gleason Score"
+      ],
+      [
+        "Cancer",
+        "Recurrence"
+      ],
+      [
+        "Family History",
+        "Inherited Cancer"
+      ],
+      [
+        "Cancer",
+        "Hormones"
+      ],
+      [
+        "Biopsies",
+        "Cancer"
+      ],
+      [
+        "Blood Tests",
+        "Cancer"
+      ],
+      [
+        "Blasts",
+        "Myeloid Progenitor Cells"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "United States"
+      ],
+      [
+        "Resectable",
+        "Throat Cancer"
+      ],
+      [
+        "Esophageal Cancer",
+        "Stage"
+      ],
+      [
+        "Breast",
+        "Lobular Carcinoma"
+      ],
+      [
+        "Inflammatory Breast Cancer",
+        "Systemic Therapy"
+      ],
+      [
+        "Blood Cells",
+        "Blood Stem Cells"
+      ],
+      [
+        "Head and Neck Cancer",
+        "Mouth"
+      ],
+      [
+        "Breast Cancer",
+        "Lymph Nodes"
+      ],
+      [
+        "Genetic Testing",
+        "Inherited Cancer"
+      ],
+      [
+        "Bacterial Germ",
+        "Intravesical BCG"
+      ],
+      [
+        "Genetic Factors",
+        "Prostate"
+      ],
+      [
+        "Treatment",
+        "schedule"
+      ],
+      [
+        "Adjuvant Chemotherapy",
+        "Chemotherapy"
+      ],
+      [
+        "Ovarian Cancer",
+        "Stage 4A"
+      ],
+      [
+        "Chemotherapy",
+        "systemic"
+      ],
+      [
+        "Ovarian Cancer",
+        "Pathologist"
+      ],
+      [
+        "Radiation",
+        "Risk Factor"
+      ],
+      [
+        "Diagnosis",
+        "Imaging Tests"
+      ],
+      [
+        "Lumbar Puncture",
+        "Lymphoma"
+      ],
+      [
+        "Gene",
+        "Real-time PCR"
+      ],
+      [
+        "Recurrence",
+        "Tumor"
+      ],
+      [
+        "Recurrence",
+        "Symptoms"
+      ],
+      [
+        "Bladder Cancer",
+        "Surgery"
+      ],
+      [
+        "HPV",
+        "Viral Warts"
+      ],
+      [
+        "Hospital",
+        "Organization"
+      ],
+      [
+        "Main Treatments",
+        "Management"
+      ],
+      [
+        "Gliomas",
+        "Resection"
+      ],
+      [
+        "Breast",
+        "Diagnostic Mammogram"
+      ],
+      [
+        "Advanced-Stage Prostate Cancer",
+        "Prostate Cancer"
+      ],
+      [
+        "Acute Lymphoblastic Leukemia",
+        "Blood"
+      ],
+      [
+        "Clinical Trials",
+        "Phase 4 Trials"
+      ],
+      [
+        "Breast",
+        "Ductal Carcinoma"
+      ],
+      [
+        "Early and Locally Advanced NSCLC",
+        "Surgery"
+      ],
+      [
+        "Adenocarcinoma",
+        "Alveoli"
+      ],
+      [
+        "Lymph Node Spread",
+        "N"
+      ],
+      [
+        "Symptoms",
+        "bladder cancer"
+      ],
+      [
+        "Cancer",
+        "Sentinel Lymph Nodes"
+      ],
+      [
+        "Involved Site Radiation Therapy",
+        "MGZL"
+      ],
+      [
+        "Fulvestrant",
+        "SERD"
+      ],
+      [
+        "Lobectomy",
+        "Thyroid Cancer"
+      ],
+      [
+        "Breast Cancer",
+        "Systemic Therapy"
+      ],
+      [
+        "Health History and Physical Exam",
+        "Patient"
+      ],
+      [
+        "Monitoring",
+        "Thyroid Cancer"
+      ],
+      [
+        "Family History",
+        "Risk Factors"
+      ],
+      [
+        "Blood Cells",
+        "Stem Cell Transplant"
+      ],
+      [
+        "Breast Cancer",
+        "Lobules"
+      ],
+      [
+        "Colon Cancer",
+        "Lynch Syndrome"
+      ],
+      [
+        "Immunophenotype",
+        "Leukemia"
+      ],
+      [
+        "Fertility",
+        "Ovarian Transposition"
+      ],
+      [
+        "Cervical Dysplasia",
+        "HPV Infection"
+      ],
+      [
+        "AJCC",
+        "Cancer Staging System"
+      ],
+      [
+        "Post-Bladder Removal",
+        "Urinary diversion"
+      ],
+      [
+        "Hepatitis C Virus",
+        "Liver"
+      ],
+      [
+        "MGZL",
+        "Rituximab"
+      ],
+      [
+        "Monoclonal Antibody",
+        "Rituximab"
+      ],
+      [
+        "Cancer Risks",
+        "Tobacco and Alcohol Use"
+      ],
+      [
+        "Pterygoid Plates",
+        "Tumor"
+      ],
+      [
+        "Esophageal Cancer",
+        "Liver"
+      ],
+      [
+        "Bone",
+        "Bone Cells"
+      ],
+      [
+        "Bone Marrow",
+        "Stem Cells"
+      ],
+      [
+        "Cancer",
+        "Omentum"
+      ],
+      [
+        "CSCC",
+        "Systemic Therapy"
+      ],
+      [
+        "Bladder",
+        "Intravesical Chemotherapy"
+      ],
+      [
+        "Indoor Tanning",
+        "Skin Cancer"
+      ],
+      [
+        "Biomarker Testing",
+        "Treatment"
+      ],
+      [
+        "Blood",
+        "Bone Marrow"
+      ],
+      [
+        "T-cell Lymphoblast",
+        "T-cell Lymphoblastic Lymphoma"
+      ],
+      [
+        "Mouth",
+        "Squamous Cell Carcinoma"
+      ],
+      [
+        "Actinic Keratoses",
+        "Topical Therapies"
+      ],
+      [
+        "Family History",
+        "Genetic Factors"
+      ],
+      [
+        "Tumor",
+        "Tumor Mutation Testing"
+      ],
+      [
+        "Blood",
+        "Cells"
+      ],
+      [
+        "Chemotherapy",
+        "Metastatic Anal Cancer"
+      ],
+      [
+        "Metastatic",
+        "Stage 4"
+      ],
+      [
+        "Laparotomy",
+        "Surgical Method"
+      ],
+      [
+        "LHRH Antagonist",
+        "Prostate Cancer"
+      ],
+      [
+        "Lymph nodes",
+        "Lymphoblasts"
+      ],
+      [
+        "CEA",
+        "Metastatic Cancer"
+      ],
+      [
+        "Family History",
+        "Prostate"
+      ],
+      [
+        "Body",
+        "Contrast"
+      ],
+      [
+        "Estrogen Receptor",
+        "Hormone"
+      ],
+      [
+        "Bladder Cancer",
+        "Stages"
+      ],
+      [
+        "Genetic Changes",
+        "Skin Punch Biopsy"
+      ],
+      [
+        "Lung Cancers",
+        "Risk Factors"
+      ],
+      [
+        "Lymph Nodes",
+        "Lymphatic System"
+      ],
+      [
+        "Chemotherapy",
+        "Maintenance Therapy"
+      ],
+      [
+        "Clinical Trials",
+        "Research Study"
+      ],
+      [
+        "Lung Cancer",
+        "Stages"
+      ],
+      [
+        "Malignant",
+        "Tumor"
+      ],
+      [
+        "Genetic Testing",
+        "Karyotype"
+      ],
+      [
+        "Biopsy",
+        "Liver"
+      ],
+      [
+        "Cancer Risk",
+        "Family History"
+      ],
+      [
+        "Eyes",
+        "Radiation Therapy"
+      ],
+      [
+        "Blood Tests",
+        "Care Team"
+      ],
+      [
+        "Chemotherapy",
+        "Method"
+      ],
+      [
+        "Surgery",
+        "Thyroid Gland"
+      ],
+      [
+        "Breast",
+        "Ducts"
+      ],
+      [
+        "Larynx",
+        "Nasopharynx"
+      ],
+      [
+        "Cervical Biopsy",
+        "Cervix"
+      ],
+      [
+        "Catheter",
+        "Treatment Options"
+      ],
+      [
+        "Bladder Cancer",
+        "Intravesical Therapy"
+      ],
+      [
+        "Anal Cancer",
+        "Anal Cancer Foundation"
+      ],
+      [
+        "Hematologic Oncologist",
+        "Person"
+      ],
+      [
+        "Detection",
+        "Imaging Tests"
+      ],
+      [
+        "Clinical Trials",
+        "Eligibility Criteria"
+      ],
+      [
+        "Doctor",
+        "Medical Oncologist"
+      ],
+      [
+        "Lymph Nodes",
+        "Lymphatic Vessels"
+      ],
+      [
+        "Maintenance Therapy",
+        "Rucaparib"
+      ],
+      [
+        "Cervical Cancer",
+        "Surgery"
+      ],
+      [
+        "Lobules",
+        "Milk Ducts"
+      ],
+      [
+        "Cancer",
+        "Pathologic Examination"
+      ],
+      [
+        "High-Dose Methotrexate",
+        "Rituximab"
+      ],
+      [
+        "Testicles",
+        "Testosterone"
+      ],
+      [
+        "Family Members",
+        "Genetic History"
+      ],
+      [
+        "Muscle Layer",
+        "Stage 2"
+      ],
+      [
+        "Cystoscopy",
+        "Tumor"
+      ],
+      [
+        "Biomarker Testing",
+        "Therapeutic Decision"
+      ],
+      [
+        "Bone Marrow",
+        "Sampling"
+      ],
+      [
+        "Pathologist",
+        "Provides"
+      ],
+      [
+        "Guide",
+        "Imaging Studies"
+      ],
+      [
+        "Biopsy",
+        "Thyroid Nodule"
+      ],
+      [
+        "Ovarian Cancer",
+        "Ovaries"
+      ],
+      [
+        "Cone Biopsy",
+        "Transformation Zone"
+      ],
+      [
+        "Adrenal Cortex",
+        "Adrenal Gland"
+      ],
+      [
+        "Lobectomy",
+        "Thyroid Gland"
+      ],
+      [
+        "Organs",
+        "Spread"
+      ],
+      [
+        "Anal Squamous Cell Carcinoma",
+        "Biopsy"
+      ],
+      [
+        "Bone Scan",
+        "Radiotracer"
+      ],
+      [
+        "Lynch syndrome",
+        "Mismatch repair (MMR) genes"
+      ],
+      [
+        "Lung Cancer",
+        "NSCLC"
+      ],
+      [
+        "Cancer",
+        "Somatic Mutation"
+      ],
+      [
+        "Breast Cancer",
+        "HER2 Status"
+      ],
+      [
+        "Cervical Changes",
+        "Cervix"
+      ],
+      [
+        "Chemotherapy",
+        "Cisplatin"
+      ],
+      [
+        "Thyroid Cancer",
+        "Thyroidectomy"
+      ],
+      [
+        "SISCCA",
+        "is"
+      ],
+      [
+        "Healing",
+        "Muscle Flap Reconstruction"
+      ],
+      [
+        "BCG",
+        "Schedule"
+      ],
+      [
+        "Blood Test",
+        "Diagnosis"
+      ],
+      [
+        "Clinical Trial",
+        "FDA"
+      ],
+      [
+        "Follicular Lymphoma",
+        "Immunophenotyping"
+      ],
+      [
+        "Lymphoma",
+        "Stereotactic Biopsy"
+      ],
+      [
+        "Blood Tests",
+        "Lymphoblasts"
+      ],
+      [
+        "Glioma",
+        "Ongoing Research"
+      ],
+      [
+        "Carcinoma",
+        "Scars and Wounds"
+      ],
+      [
+        "Enclosed MRI",
+        "Patient"
+      ],
+      [
+        "CML",
+        "Myeloid Progenitor Cells"
+      ],
+      [
+        "Nurse",
+        "Patient"
+      ],
+      [
+        "Pharynx",
+        "includes"
+      ],
+      [
+        "Liquid Biopsy",
+        "Metastasis"
+      ],
+      [
+        "Oncologist",
+        "Treatment"
+      ],
+      [
+        "FDA",
+        "Phase 4 Trials"
+      ],
+      [
+        "Metastatic Cervical Cancer",
+        "Organs"
+      ],
+      [
+        "Cancer Symptoms",
+        "Supportive Care"
+      ],
+      [
+        "Biomarker Testing",
+        "p16"
+      ],
+      [
+        "Molecular Tests",
+        "Thyroid Nodule"
+      ],
+      [
+        "Anal Cancer",
+        "STI"
+      ],
+      [
+        "Bone",
+        "Growth Plate"
+      ],
+      [
+        "Bladder Cancer",
+        "Smoking"
+      ],
+      [
+        "Estrogen",
+        "Menopause"
+      ],
+      [
+        "Lymph Nodes",
+        "Spread of Cancer"
+      ],
+      [
+        "HPV",
+        "Other Cancers"
+      ],
+      [
+        "Kidney",
+        "Metastasis"
+      ],
+      [
+        "Lung Cancer",
+        "Screening"
+      ],
+      [
+        "Lung Cancer",
+        "Smoking"
+      ],
+      [
+        "MRI",
+        "Ovarian Cancer"
+      ],
+      [
+        "Biopsy of Metastasis",
+        "Cancer Spread"
+      ],
+      [
+        "Cancer",
+        "Imaging Studies"
+      ],
+      [
+        "Immunotherapy",
+        "Side Effects"
+      ],
+      [
+        "Cervical Cancer",
+        "Cervical Dysplasia"
+      ],
+      [
+        "Homologous Recombination Deficiency",
+        "Tumor"
+      ],
+      [
+        "Head and Neck",
+        "Physical Exam"
+      ],
+      [
+        "Staging",
+        "Treatment"
+      ],
+      [
+        "Stomach",
+        "Ulcer"
+      ],
+      [
+        "Histology",
+        "Treatment"
+      ],
+      [
+        "Prostate",
+        "Urologist"
+      ],
+      [
+        "Imaging Tests",
+        "Patient"
+      ],
+      [
+        "Follow-up Testing",
+        "Lobectomy"
+      ],
+      [
+        "Blood",
+        "Blood Transfusion"
+      ],
+      [
+        "Gene",
+        "Genetic Testing"
+      ],
+      [
+        "Bone Scan",
+        "Cancer"
+      ],
+      [
+        "Care Team",
+        "Symptoms"
+      ],
+      [
+        "Anal Cancer",
+        "Cancer Stage"
+      ],
+      [
+        "HL",
+        "MGZL"
+      ],
+      [
+        "Adenoma",
+        "Polyp"
+      ],
+      [
+        "Metastatic cancer",
+        "Supportive care"
+      ],
+      [
+        "Genes",
+        "PCR"
+      ],
+      [
+        "Grade 2 Tumors",
+        "Recurrence"
+      ],
+      [
+        "Bone",
+        "Prostate Cancer"
+      ],
+      [
+        "TURBT",
+        "Tumor Resection"
+      ],
+      [
+        "Nicotine",
+        "Smoking"
+      ],
+      [
+        "Side Effects",
+        "Urinary Incontinence"
+      ],
+      [
+        "Metastatic Prostate Cancer",
+        "Prostate"
+      ],
+      [
+        "Breast Cancer",
+        "Ductal Carcinoma"
+      ],
+      [
+        "NCCN",
+        "Provides"
+      ],
+      [
+        "Laparoscopy",
+        "Surgical Method"
+      ],
+      [
+        "Estrogen",
+        "Hormone"
+      ],
+      [
+        "Aggressive Cancer",
+        "Prostate"
+      ],
+      [
+        "High Microsatellite Instability",
+        "Lynch Syndrome"
+      ],
+      [
+        "G3",
+        "Grade"
+      ],
+      [
+        "Cancer",
+        "PIK3CA"
+      ],
+      [
+        "Bone Marrow Tests",
+        "Testing for ALL"
+      ],
+      [
+        "Genetic Testing",
+        "Testing for ALL"
+      ],
+      [
+        "Brachytherapy",
+        "Cervical Cancer"
+      ],
+      [
+        "HIV",
+        "Hepatitis B"
+      ],
+      [
+        "Contrast Material",
+        "Imaging Tests"
+      ],
+      [
+        "Cancer",
+        "Genes"
+      ],
+      [
+        "Tumor",
+        "Wound"
+      ],
+      [
+        "Fertility Preservation",
+        "Oophoropexy"
+      ],
+      [
+        "Muscle layer",
+        "Tumors"
+      ],
+      [
+        "Genetic Mutations",
+        "Tumor Mutational Burden"
+      ],
+      [
+        "Protein Production",
+        "Vitamin B12"
+      ],
+      [
+        "Imaging Scan",
+        "Primary CNS Lymphoma"
+      ],
+      [
+        "Blood",
+        "Kidney"
+      ],
+      [
+        "Chemotherapy",
+        "Paclitaxel"
+      ],
+      [
+        "Cancer",
+        "Hormone Receptor Status"
+      ],
+      [
+        "Lymph Nodes",
+        "Prostate"
+      ],
+      [
+        "Lymphoblastic Lymphoma",
+        "Thymus"
+      ],
+      [
+        "Cisplatin",
+        "Kidneys"
+      ],
+      [
+        "Hormone Therapies",
+        "Prostate Cancer"
+      ],
+      [
+        "Cancer",
+        "Surgery"
+      ],
+      [
+        "Gliomas",
+        "Gradings"
+      ],
+      [
+        "Bladder",
+        "Tissue"
+      ],
+      [
+        "Anthracyclines",
+        "Disrupt"
+      ],
+      [
+        "Bone Scan",
+        "Imaging Tests"
+      ],
+      [
+        "Non-invasive Imaging",
+        "Ultrasound"
+      ],
+      [
+        "Esophageal Cancer",
+        "Lymph Nodes"
+      ],
+      [
+        "Bladder",
+        "Ureter"
+      ],
+      [
+        "Perineural Invasion",
+        "Tumor"
+      ],
+      [
+        "Breast",
+        "Breast Cancer"
+      ],
+      [
+        "Kidney",
+        "Vena Cava"
+      ],
+      [
+        "Digestive System",
+        "Stomach"
+      ],
+      [
+        "Body",
+        "PET Scan"
+      ],
+      [
+        "AML",
+        "Gene Mutations"
+      ],
+      [
+        "Additional Surgery",
+        "Postoperative Pathology"
+      ],
+      [
+        "Family Health History",
+        "Rectal Cancer"
+      ],
+      [
+        "Oncologist",
+        "Radiologist"
+      ],
+      [
+        "Brachytherapy",
+        "EBRT"
+      ],
+      [
+        "PSA",
+        "Prostate"
+      ],
+      [
+        "Fertility",
+        "Specialist Referral"
+      ],
+      [
+        "Bladder",
+        "Urethra"
+      ],
+      [
+        "Computed Tomography",
+        "Imaging"
+      ],
+      [
+        "AML Specialist",
+        "NCCN Guidelines for Patients"
+      ],
+      [
+        "Breast Cancer",
+        "ER"
+      ],
+      [
+        "Gene Rearrangements",
+        "PCR"
+      ],
+      [
+        "Genetic Mutations",
+        "Next-Generation Sequencing"
+      ],
+      [
+        "Care Team",
+        "Physical Exam"
+      ],
+      [
+        "Radiation Therapy",
+        "Side Effects"
+      ],
+      [
+        "Biopsy",
+        "Tumors"
+      ],
+      [
+        "B-cell lymphoblastic lymphoma",
+        "B-cell lymphoblasts"
+      ],
+      [
+        "Ovarian Transposition",
+        "Radiation"
+      ],
+      [
+        "Leuprolide",
+        "Ovarian"
+      ],
+      [
+        "Bone Marrow",
+        "Stem Cell"
+      ],
+      [
+        "Brain CT",
+        "Brain MRI"
+      ],
+      [
+        "Germline Mutations",
+        "Hereditary Cancers"
+      ],
+      [
+        "Anal Cancer",
+        "Cancers and Pre-cancers"
+      ],
+      [
+        "Chemical Levels",
+        "Liver"
+      ],
+      [
+        "Palliative Radiation Therapy",
+        "Symptoms"
+      ],
+      [
+        "Blood",
+        "Hematopoietic Stem Cells"
+      ],
+      [
+        "Chemotherapy",
+        "Mitomycin"
+      ],
+      [
+        "Inflammatory Breast Cancer",
+        "Lymph Vessels"
+      ],
+      [
+        "Molecular Biomarker Tests",
+        "Risk Assessment"
+      ],
+      [
+        "DNA Repair",
+        "MSI-H/dMMR"
+      ],
+      [
+        "Cancer Cells",
+        "Lymphatic System"
+      ],
+      [
+        "Cancer",
+        "Tumor"
+      ],
+      [
+        "Appropriate management",
+        "MGZL"
+      ],
+      [
+        "PD-L1",
+        "Tumor"
+      ],
+      [
+        "Stages 2 and 3 Cancer",
+        "Surveillance"
+      ],
+      [
+        "Nerve Damage",
+        "Symptoms"
+      ],
+      [
+        "Lymphatic System",
+        "Prostate"
+      ],
+      [
+        "Airways",
+        "Lungs"
+      ],
+      [
+        "Diarrhea",
+        "Irinotecan"
+      ],
+      [
+        "Lymph Nodes",
+        "Spread"
+      ],
+      [
+        "Imaging Tests",
+        "Liver"
+      ],
+      [
+        "Test Results",
+        "Treatment"
+      ],
+      [
+        "Impaired Immune System",
+        "Primary CNS Lymphoma"
+      ],
+      [
+        "DNA",
+        "Genes"
+      ],
+      [
+        "Anal Area",
+        "Cancer"
+      ],
+      [
+        "Biomarker Testing",
+        "Thyroid Cancer"
+      ],
+      [
+        "Fiberoptic Scope",
+        "Oral Cavity"
+      ],
+      [
+        "Thyroid Gland",
+        "Total Thyroidectomy"
+      ],
+      [
+        "Conization",
+        "Stage 1A2"
+      ],
+      [
+        "Bladder",
+        "Continent Urinary Diversion"
+      ],
+      [
+        "Elacestrant",
+        "SERD"
+      ],
+      [
+        "Bone Marrow Test",
+        "Diagnosis of ALL"
+      ],
+      [
+        "Lymphoma",
+        "Steroids"
+      ],
+      [
+        "Donor Match",
+        "HLA Typing"
+      ],
+      [
+        "Body",
+        "Imaging Tests"
+      ],
+      [
+        "Features",
+        "Sarcomatoid RCC"
+      ],
+      [
+        "Glioma",
+        "Risks"
+      ],
+      [
+        "ESD",
+        "Tumor"
+      ],
+      [
+        "Chemotherapy",
+        "Stem Cells"
+      ],
+      [
+        "Chemotherapy",
+        "Targeted Therapy"
+      ],
+      [
+        "Cytogenetics",
+        "Genetic"
+      ],
+      [
+        "Cervical Cancer",
+        "Intracavitary Brachytherapy"
+      ],
+      [
+        "Colon Cancer",
+        "Mismatch Repair Testing"
+      ],
+      [
+        "Patient",
+        "Physical Exam"
+      ],
+      [
+        "Clinical Trials",
+        "U.S. Food and Drug Administration"
+      ],
+      [
+        "Cancer",
+        "FDG-PET/CT"
+      ],
+      [
+        "Care Team",
+        "Patients"
+      ],
+      [
+        "Cancer Treatment",
+        "Nutrition Assessment"
+      ],
+      [
+        "Family History",
+        "Stomach Cancer"
+      ],
+      [
+        "Family History",
+        "Family Members"
+      ],
+      [
+        "Glioma",
+        "Spinal Cord"
+      ],
+      [
+        "Head and Neck Cancer",
+        "Throat (Oropharyngeal) Cancer"
+      ],
+      [
+        "Invasive Breast Cancer",
+        "Lymph Vessels"
+      ],
+      [
+        "Non-clear Cell RCC",
+        "subtypes"
+      ],
+      [
+        "Pancreatic Cancer Stages",
+        "Treatment Plan"
+      ],
+      [
+        "BRCA Mutation",
+        "Ovarian Cancer"
+      ],
+      [
+        "Blood Sugar Levels",
+        "Steroids"
+      ],
+      [
+        "Fertility Preservation",
+        "Sperm Banking"
+      ],
+      [
+        "Fatty Layer, Lymph Nodes, Organs",
+        "Stage 3"
+      ],
+      [
+        "Pancreas",
+        "Pancreatic Neuroendocrine Tumor"
+      ],
+      [
+        "Biopsy",
+        "Confirmation"
+      ],
+      [
+        "Imaging Studies",
+        "Treatment Plan"
+      ],
+      [
+        "Testicles",
+        "Vas Deferens"
+      ],
+      [
+        "Post-treatment",
+        "Recurrence"
+      ],
+      [
+        "Bone",
+        "Osteosarcoma"
+      ],
+      [
+        "Cancer Spread",
+        "MRI"
+      ],
+      [
+        "H. pylori",
+        "Stomach"
+      ],
+      [
+        "Kidney",
+        "Nephrons"
+      ],
+      [
+        "Blood Stem Cells",
+        "Bone Marrow"
+      ],
+      [
+        "Medical History",
+        "Physical Exam"
+      ],
+      [
+        "Early-Stage Prostate Cancer",
+        "Localized Prostate Cancer"
+      ],
+      [
+        "Detect Cancer",
+        "Imaging Tests"
+      ],
+      [
+        "Suspicious lymph nodes",
+        "Ultrasound"
+      ],
+      [
+        "Eye",
+        "Ophthalmologist"
+      ],
+      [
+        "Biopsy",
+        "Prostate"
+      ],
+      [
+        "Cataracts",
+        "Radiation Therapy"
+      ],
+      [
+        "Cancer",
+        "Cultures"
+      ],
+      [
+        "Diagnosis",
+        "Skin Lesion"
+      ],
+      [
+        "Astrocytomas",
+        "Gliomas"
+      ],
+      [
+        "Breast Cancer",
+        "Tumor"
+      ],
+      [
+        "Goserelin",
+        "Ovarian"
+      ],
+      [
+        "Anal Cancer",
+        "Fight Colorectal Cancer"
+      ],
+      [
+        "Cancer within bladder",
+        "MRI"
+      ],
+      [
+        "Pelvic Floor Muscles",
+        "Support"
+      ],
+      [
+        "Biopsy",
+        "Endoscopy"
+      ],
+      [
+        "Blood Clotting",
+        "Liver"
+      ],
+      [
+        "AML",
+        "Medical History"
+      ],
+      [
+        "Blood Test",
+        "HLA Typing"
+      ],
+      [
+        "Cancer",
+        "Psychological Distress"
+      ],
+      [
+        "Genetic Tests",
+        "Hereditary Conditions"
+      ],
+      [
+        "Imaging",
+        "Ovarian Cancer"
+      ],
+      [
+        "BCR::ABL1",
+        "Philadelphia (Ph) Chromosome"
+      ],
+      [
+        "Genes",
+        "MSI-H/dMMR"
+      ],
+      [
+        "HPV",
+        "Vulvar Cancer"
+      ],
+      [
+        "Targeted Therapy",
+        "Treatment"
+      ],
+      [
+        "Curettage and Electrodesiccation",
+        "Low-risk CSCC"
+      ],
+      [
+        "Health",
+        "Healthy Lifestyle"
+      ],
+      [
+        "Bone Marrow Biopsy",
+        "Diagnosis"
+      ],
+      [
+        "Prostate",
+        "Screening Tests"
+      ],
+      [
+        "Hormonal",
+        "SERDs"
+      ],
+      [
+        "AML",
+        "Abnormal Chromosomes"
+      ],
+      [
+        "Cancer",
+        "Smoking"
+      ],
+      [
+        "Squamous Cell Carcinoma",
+        "Standard Surgical Excision"
+      ],
+      [
+        "Biopsy",
+        "Laryngoscopy"
+      ],
+      [
+        "Lymph Nodes",
+        "Throat Cancer"
+      ],
+      [
+        "Cancer Centers",
+        "Clinical Social Workers"
+      ],
+      [
+        "CSCC",
+        "PDEMA"
+      ],
+      [
+        "Inflammatory Breast Cancer",
+        "Skin Changes"
+      ],
+      [
+        "Pelvic Floor Muscles",
+        "Pelvic Floor Physical Therapy"
+      ],
+      [
+        "DNA Amplification",
+        "PCR"
+      ],
+      [
+        "Stoma",
+        "Valve"
+      ],
+      [
+        "Pancreas",
+        "Pancreatic Adenocarcinoma"
+      ],
+      [
+        "Function",
+        "Prostate"
+      ],
+      [
+        "Peutz-Jeghers Syndrome",
+        "increases risk of"
+      ],
+      [
+        "Atezolizumab",
+        "Checkpoint Inhibitors"
+      ],
+      [
+        "Skin",
+        "Squamous Cell Skin Cancer"
+      ],
+      [
+        "Alkaline Phosphatase",
+        "Blood Tests"
+      ],
+      [
+        "NCI",
+        "clinicaltrials.gov"
+      ],
+      [
+        "Clinical Trials",
+        "FDA"
+      ],
+      [
+        "Heart",
+        "Prolonged QTc"
+      ],
+      [
+        "H. pylori",
+        "Stomach Cancer"
+      ],
+      [
+        "Echocardiogram",
+        "Heart"
+      ],
+      [
+        "Urine",
+        "Urine Cytology"
+      ],
+      [
+        "CT Imaging",
+        "Targeting"
+      ],
+      [
+        "Valve",
+        "function"
+      ],
+      [
+        "Irinotecan",
+        "Nausea"
+      ],
+      [
+        "MRI",
+        "Targeting"
+      ],
+      [
+        "CML",
+        "Treatment"
+      ],
+      [
+        "Lynch Syndrome",
+        "increases risk of"
+      ],
+      [
+        "Primary CNS Lymphoma",
+        "Stereotactic Biopsy"
+      ],
+      [
+        "Large Cell Carcinoma",
+        "Lungs"
+      ],
+      [
+        "Genetic Cancer Risk Testing",
+        "Person"
+      ],
+      [
+        "People",
+        "Support Websites"
+      ],
+      [
+        "Lung",
+        "Lung Carcinomas"
+      ],
+      [
+        "Biopsy",
+        "Cancer Cells"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "UV Radiation"
+      ],
+      [
+        "Blood Sample",
+        "Tumor Mutation Testing"
+      ],
+      [
+        "CA-125",
+        "Monitoring"
+      ],
+      [
+        "Cancer",
+        "Stage"
+      ],
+      [
+        "Blood",
+        "Lymphoid Progenitor Cells"
+      ],
+      [
+        "Cancer Screening",
+        "Health"
+      ],
+      [
+        "CIN",
+        "HPV"
+      ],
+      [
+        "Ovarian Cancer",
+        "Recurrence"
+      ],
+      [
+        "Kidney Damage",
+        "Platinum-Based Medicines"
+      ],
+      [
+        "Chemotherapy",
+        "Neoadjuvant Therapy"
+      ],
+      [
+        "Conization",
+        "Stage 1B1"
+      ],
+      [
+        "Normal tissue",
+        "Surgical Margin"
+      ],
+      [
+        "Communication",
+        "Patient Portal"
+      ],
+      [
+        "Cancer Extent",
+        "Imaging"
+      ],
+      [
+        "Blood Test",
+        "Tumor Marker"
+      ],
+      [
+        "Cancer Risk",
+        "Germline Testing"
+      ],
+      [
+        "Diet and Lifestyle",
+        "Prostate"
+      ],
+      [
+        "Patient",
+        "Support System"
+      ],
+      [
+        "Location",
+        "Prostate"
+      ],
+      [
+        "Diagnosis",
+        "Ovarian Cancer"
+      ],
+      [
+        "Folic Acid",
+        "Vitamin B12"
+      ],
+      [
+        "Vaginal Dilator",
+        "Vaginal Stenosis"
+      ],
+      [
+        "Glioma",
+        "Histology"
+      ],
+      [
+        "Colectomy",
+        "Colon"
+      ],
+      [
+        "Cancer Survivors",
+        "Mental Health"
+      ],
+      [
+        "Chapter 8",
+        "GCTB"
+      ],
+      [
+        "Planning",
+        "Treatment"
+      ],
+      [
+        "Bladder",
+        "Rigid Cystoscope"
+      ],
+      [
+        "NCCN Cancer Centers",
+        "United States"
+      ],
+      [
+        "Biopsy",
+        "Hormone Receptor Testing"
+      ],
+      [
+        "Cancer",
+        "Clinical Trials"
+      ],
+      [
+        "Advanced Techniques",
+        "Radiation"
+      ],
+      [
+        "Cancer",
+        "MRI"
+      ],
+      [
+        "Contrast Agent",
+        "MRI"
+      ],
+      [
+        "Fiberoptic Laryngoscopy",
+        "Nasal Examination"
+      ],
+      [
+        "Fertility",
+        "Sperm Banking"
+      ],
+      [
+        "Content",
+        "Pancreatic Cancer"
+      ],
+      [
+        "Anal Dysplasia",
+        "HSIL"
+      ],
+      [
+        "Lymph Nodes",
+        "Lymphocytes"
+      ],
+      [
+        "Prostate Cancer",
+        "Race"
+      ],
+      [
+        "Ovarian Cancer",
+        "Treatment Plan"
+      ],
+      [
+        "Kidneys, ureters, bladder",
+        "Renal Ultrasound"
+      ],
+      [
+        "Blood Tests",
+        "Complete Blood Count"
+      ],
+      [
+        "Spine",
+        "Spine MRI"
+      ],
+      [
+        "HPV",
+        "Warts"
+      ],
+      [
+        "Blood",
+        "Blood Diseases"
+      ],
+      [
+        "Risk Factors",
+        "Smoking"
+      ],
+      [
+        "Anal Cancer",
+        "Anal cancer"
+      ],
+      [
+        "BCR::ABL",
+        "Protein"
+      ],
+      [
+        "Enlarged Prostate",
+        "PSA"
+      ],
+      [
+        "Imaging Tests",
+        "Tumors"
+      ],
+      [
+        "Overall",
+        "Treatment"
+      ],
+      [
+        "Adenocarcinoma",
+        "Adenoma"
+      ],
+      [
+        "Blood Tests",
+        "Ovarian Cancer"
+      ],
+      [
+        "T-cell Lymphocytes",
+        "Thymus"
+      ],
+      [
+        "Biopsy",
+        "Imaging Tests"
+      ],
+      [
+        "Heart",
+        "QTc"
+      ],
+      [
+        "Blood Sample",
+        "Metastasis"
+      ],
+      [
+        "Germline Mutation",
+        "Inherited Risk"
+      ],
+      [
+        "Lymph Nodes",
+        "Lymph Vessels"
+      ],
+      [
+        "Lymph Nodes",
+        "Stomach Cancer"
+      ],
+      [
+        "Ovarian Transposition",
+        "Radiation Therapy"
+      ],
+      [
+        "Blood Test",
+        "Flow Cytometry"
+      ],
+      [
+        "Imaging",
+        "PET/CT"
+      ],
+      [
+        "Menstrual Cycle",
+        "Premenopause"
+      ],
+      [
+        "Eye Exam",
+        "Lymphoma"
+      ],
+      [
+        "Care Centers",
+        "Patients"
+      ],
+      [
+        "Metastatic Cancer",
+        "Thyroid"
+      ],
+      [
+        "Blood Stem Cells",
+        "Blood Transfusion"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Early Detection"
+      ],
+      [
+        "Cancer Survivors",
+        "Sexual Health Therapist"
+      ],
+      [
+        "Age",
+        "Prostate Cancer"
+      ],
+      [
+        "Normal tissue",
+        "Perianal Cancer"
+      ],
+      [
+        "Nerve",
+        "Tumor"
+      ],
+      [
+        "Lymph Nodes",
+        "Lymphoblastic Lymphoma"
+      ],
+      [
+        "Family History",
+        "Screening"
+      ],
+      [
+        "Gleason Score",
+        "Grade Group"
+      ],
+      [
+        "Cancer",
+        "Clinical Trial"
+      ],
+      [
+        "Bladder Cancer",
+        "Risk Factors"
+      ],
+      [
+        "Clinical Trials",
+        "Research"
+      ],
+      [
+        "Local Excision",
+        "Stage I/II"
+      ],
+      [
+        "Lobectomy",
+        "Monitoring"
+      ],
+      [
+        "Brain",
+        "Glioma"
+      ],
+      [
+        "Examinations Under Anesthesia",
+        "bowel"
+      ],
+      [
+        "Cancer",
+        "Liver"
+      ],
+      [
+        "HIV/AIDS",
+        "Primary CNS lymphoma"
+      ],
+      [
+        "Bladder Cancer",
+        "Systemic Therapy"
+      ],
+      [
+        "Primary CNS lymphoma",
+        "Tests"
+      ],
+      [
+        "Follicular Lymphoma",
+        "Germinal Centers"
+      ],
+      [
+        "Anal Cancer",
+        "Autoimmune Disorders"
+      ],
+      [
+        "Carcinoma",
+        "forms in"
+      ],
+      [
+        "Biopsy of the Metastasis",
+        "Liver"
+      ],
+      [
+        "Breast Milk",
+        "Ducts"
+      ],
+      [
+        "Colonoscopy",
+        "Stage 1 Cancer"
+      ],
+      [
+        "CTLA",
+        "Immune System"
+      ],
+      [
+        "Estrogen",
+        "Hormones"
+      ],
+      [
+        "Chemotherapy",
+        "Cycles"
+      ],
+      [
+        "Digital Rectal Exam",
+        "Doctor"
+      ],
+      [
+        "Early diagnosis",
+        "Treatment success"
+      ],
+      [
+        "Medical Center",
+        "Prostate Cancer"
+      ],
+      [
+        "Liver",
+        "Stomach Cancer"
+      ],
+      [
+        "Cancer",
+        "Sentinel Lymph Node"
+      ],
+      [
+        "Intravesical Chemotherapy",
+        "Treatment Schedule"
+      ],
+      [
+        "Biopsy",
+        "Syringe"
+      ],
+      [
+        "Biopsy",
+        "Diagnosis of Primary CNS Lymphoma"
+      ],
+      [
+        "Distant Metastasis",
+        "Tumor"
+      ],
+      [
+        "Cytarabine",
+        "is"
+      ],
+      [
+        "BCL2 Protein",
+        "Follicular Lymphoma"
+      ],
+      [
+        "Digital Rectal Exam",
+        "Prostate"
+      ],
+      [
+        "Blood Tests",
+        "Diagnosis"
+      ],
+      [
+        "GX",
+        "Grade"
+      ],
+      [
+        "Cancer Recurrence",
+        "Tests"
+      ],
+      [
+        "Bone Scan",
+        "Metastasis"
+      ],
+      [
+        "Lymphatic System",
+        "Lymphocytes"
+      ],
+      [
+        "Diagnosis",
+        "Digital Rectal Exam"
+      ],
+      [
+        "Scar",
+        "Tumor"
+      ],
+      [
+        "Ovarian Cancer",
+        "Tumor Markers"
+      ],
+      [
+        "Lymphoma",
+        "Tissue Sample"
+      ],
+      [
+        "Aspirate",
+        "Bone Marrow"
+      ],
+      [
+        "Biomarkers",
+        "Recurrence"
+      ],
+      [
+        "Anastrozole",
+        "Aromatase"
+      ],
+      [
+        "Biopsy Method",
+        "Core Needle Biopsy"
+      ],
+      [
+        "Fertility-Sparing Surgery",
+        "Hysterectomy"
+      ],
+      [
+        "Environmental Toxins",
+        "Skin Cancer"
+      ],
+      [
+        "HIV",
+        "Patient"
+      ],
+      [
+        "Aromatase",
+        "Enzyme"
+      ],
+      [
+        "Blood Tests",
+        "Pregnancy Test"
+      ],
+      [
+        "Bladder Cancer",
+        "Blood in Urine"
+      ],
+      [
+        "Patients",
+        "Skin Exams"
+      ],
+      [
+        "FISH",
+        "Genetic Abnormalities"
+      ],
+      [
+        "Further treatment",
+        "Margin"
+      ],
+      [
+        "Hereditary",
+        "Pancreatic Cancer"
+      ],
+      [
+        "Breast Cancer",
+        "Early Detection"
+      ],
+      [
+        "Recurrence",
+        "Treatment"
+      ],
+      [
+        "Breast Cancer",
+        "PR"
+      ],
+      [
+        "Grade 1 Gliomas",
+        "Surgery"
+      ],
+      [
+        "Bladder Cancer",
+        "Radical Cystectomy"
+      ],
+      [
+        "Cervical Cancer",
+        "Transformation Zone"
+      ],
+      [
+        "Ovarian Cancer",
+        "Stage 1 Chemotherapy"
+      ],
+      [
+        "Bone",
+        "Metastasis"
+      ],
+      [
+        "Biomarker Testing",
+        "Ovarian Cancer"
+      ],
+      [
+        "Cervical Cancer",
+        "Lymph Nodes"
+      ],
+      [
+        "Biomarkers",
+        "Cancer"
+      ],
+      [
+        "Head and Neck",
+        "Head and Neck Cancer"
+      ],
+      [
+        "Actinic Keratosis",
+        "Dermabrasion"
+      ],
+      [
+        "Cancer",
+        "Gleason Score"
+      ],
+      [
+        "Urothelial Cancer",
+        "Urothelial Cells"
+      ],
+      [
+        "Assessing",
+        "Test Results"
+      ],
+      [
+        "Cancer",
+        "Targeted Therapy"
+      ],
+      [
+        "CIN",
+        "Cervical Changes"
+      ],
+      [
+        "HIV/AIDS",
+        "Weakened Immune System"
+      ],
+      [
+        "Cerebrospinal Fluid",
+        "Lumbar Puncture"
+      ],
+      [
+        "Chemotherapy",
+        "Treatment"
+      ],
+      [
+        "Cell Analysis",
+        "Flow Cytometry"
+      ],
+      [
+        "Glioma",
+        "Support Cells"
+      ],
+      [
+        "Chapter 6",
+        "Chordoma"
+      ],
+      [
+        "Primary CNS lymphoma",
+        "Symptoms"
+      ],
+      [
+        "Cancer",
+        "Core Sample"
+      ],
+      [
+        "Internal Organs",
+        "Prostate Cancer"
+      ],
+      [
+        "Active Cancer Cells",
+        "FDG-PET"
+      ],
+      [
+        "Cervical Cancer",
+        "Risk Factors"
+      ],
+      [
+        "Brachytherapy",
+        "LDR Brachytherapy"
+      ],
+      [
+        "Ovarian Removal",
+        "Premature Menopause"
+      ],
+      [
+        "Tumor",
+        "Tumor Profiling"
+      ],
+      [
+        "B Cells",
+        "Germinal Centers"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Hereditary Conditions"
+      ],
+      [
+        "Health Tests",
+        "Results"
+      ],
+      [
+        "Clinical Trials",
+        "Participants"
+      ],
+      [
+        "B-cell Lymphoblasts",
+        "Lymph Nodes"
+      ],
+      [
+        "Cancer",
+        "Hereditary Mutation"
+      ],
+      [
+        "CSCC",
+        "Surgical Excision"
+      ],
+      [
+        "Lobectomy",
+        "Total Thyroidectomy"
+      ],
+      [
+        "Cervical Cancer",
+        "Systemic Therapy"
+      ],
+      [
+        "Bladder",
+        "Urologist"
+      ],
+      [
+        "Blood Chemistry",
+        "Liver Function Tests"
+      ],
+      [
+        "Metastatic Squamous Cell Skin Cancer",
+        "Targeted Therapy"
+      ],
+      [
+        "CSCC",
+        "Clinical Trial"
+      ],
+      [
+        "Biomarker Testing",
+        "Diagnosis"
+      ],
+      [
+        "Clinical trials",
+        "Lung Cancer"
+      ],
+      [
+        "Biopsy",
+        "CSCC"
+      ],
+      [
+        "Breast",
+        "Breast MRI"
+      ],
+      [
+        "Erdafitinib",
+        "Targeted Therapy"
+      ],
+      [
+        "Clinical Trials",
+        "Informed Consent"
+      ],
+      [
+        "Family History",
+        "Hereditary Cancer Syndromes"
+      ],
+      [
+        "Imaging",
+        "Urinary tract"
+      ],
+      [
+        "Grows into",
+        "Tumor"
+      ],
+      [
+        "AML",
+        "Bone Marrow Tests"
+      ],
+      [
+        "Fertility Preservation",
+        "Ovarian Tissue Banking"
+      ],
+      [
+        "Head and Neck Cancers",
+        "arise in"
+      ],
+      [
+        "Lymph Vessels",
+        "Lymphatic System"
+      ],
+      [
+        "G1",
+        "Grade"
+      ],
+      [
+        "Brain",
+        "Thyroid Cancer"
+      ],
+      [
+        "Acute Lymphoblastic Leukemia",
+        "NCCN Guidelines for Patients"
+      ],
+      [
+        "Extended Treatment with Cisplatin",
+        "Hearing Problems"
+      ],
+      [
+        "Imaging Tests",
+        "PET Scan"
+      ],
+      [
+        "Targeted Therapy",
+        "Thyroid Cancers"
+      ],
+      [
+        "Distant",
+        "Metastasis"
+      ],
+      [
+        "Colon Cancer",
+        "Stage 1"
+      ],
+      [
+        "Diagnosis",
+        "Skin Biopsy"
+      ],
+      [
+        "Primary CNS Lymphoma",
+        "Symptoms"
+      ],
+      [
+        "Blood",
+        "Hematopathologist"
+      ],
+      [
+        "Hypersensitivity Reactions",
+        "Ovarian Cancer"
+      ],
+      [
+        "Prognosis",
+        "Tumor"
+      ],
+      [
+        "Adrenal Gland Cancer",
+        "Testing"
+      ],
+      [
+        "Cancer",
+        "Cancer Staging"
+      ],
+      [
+        "Gene",
+        "Next-generation Sequencing"
+      ],
+      [
+        "Chemotherapy",
+        "Stage 2"
+      ],
+      [
+        "National Library of Medicine",
+        "clinical trials"
+      ],
+      [
+        "Blood Vessels",
+        "Esophageal Cancer"
+      ],
+      [
+        "Participants",
+        "Research Team"
+      ],
+      [
+        "Pathologist",
+        "Tissue"
+      ],
+      [
+        "External Beam Radiation Therapy",
+        "Thyroid Cancer"
+      ],
+      [
+        "Clinical Trial Side Effects",
+        "Risks and Benefits"
+      ],
+      [
+        "Bone Sarcomas",
+        "Sarcomas"
+      ],
+      [
+        "Additional Therapy",
+        "Grade 3 Tumors"
+      ],
+      [
+        "Cervical Cancer",
+        "Lymphadenectomy"
+      ],
+      [
+        "Omentum",
+        "Surgical Staging"
+      ],
+      [
+        "Imaging",
+        "Recurrence"
+      ],
+      [
+        "Contrast Material",
+        "MRI Scan"
+      ],
+      [
+        "AFP",
+        "Cancer"
+      ],
+      [
+        "Imaging",
+        "Lymphoma"
+      ],
+      [
+        "Cancer Cells",
+        "Lymph or Blood Vessels"
+      ],
+      [
+        "Fertility",
+        "MRI"
+      ],
+      [
+        "Neurosurgeon",
+        "Skull"
+      ],
+      [
+        "Imaging",
+        "Prostate Cancer"
+      ],
+      [
+        "Ectocervix",
+        "Transformation Zone"
+      ],
+      [
+        "Clinical Trial",
+        "Treatment"
+      ],
+      [
+        "Doctor Visits",
+        "Patients"
+      ],
+      [
+        "CT",
+        "Method"
+      ],
+      [
+        "Cell",
+        "Tumor"
+      ],
+      [
+        "CT scan",
+        "PET"
+      ],
+      [
+        "Observation",
+        "Post-Chemotherapy"
+      ],
+      [
+        "DNA Sequencing",
+        "Genetic Testing"
+      ],
+      [
+        "AL",
+        "Adolescent and Young Adult"
+      ],
+      [
+        "Low or High-risk CSCC",
+        "Surgery"
+      ],
+      [
+        "Antimetabolites",
+        "Block"
+      ],
+      [
+        "Prognosis",
+        "Stages"
+      ],
+      [
+        "Care Team",
+        "Family History"
+      ],
+      [
+        "Cancer Staging",
+        "TNM"
+      ],
+      [
+        "Cervical Dysplasia",
+        "HSIL"
+      ],
+      [
+        "Biopsy",
+        "used for"
+      ],
+      [
+        "Immune System",
+        "PD-1"
+      ],
+      [
+        "Flow Cytometry",
+        "Immunophenotyping"
+      ],
+      [
+        "Detecting Cancer",
+        "Imaging Tests"
+      ],
+      [
+        "Fertility-Sparing Treatment",
+        "Stage 1"
+      ],
+      [
+        "Cerebrospinal Fluid",
+        "Lymphoma"
+      ],
+      [
+        "Genetic Instructions",
+        "Mutations"
+      ],
+      [
+        "Esophageal Cancer",
+        "Lungs"
+      ],
+      [
+        "Imaging",
+        "Staging"
+      ],
+      [
+        "Uncommon FL",
+        "t(14;18) Translocation"
+      ],
+      [
+        "CD33",
+        "Gemtuzumab ozogamicin"
+      ],
+      [
+        "Indiana Pouch",
+        "Urinary Diversion"
+      ],
+      [
+        "Metastasis",
+        "Prostate"
+      ],
+      [
+        "Bone marrow",
+        "Lymphoblasts"
+      ],
+      [
+        "Esophagus",
+        "Food Passage"
+      ],
+      [
+        "Kidneys,Ureters",
+        "Pyelogram"
+      ],
+      [
+        "Location",
+        "Stoma"
+      ],
+      [
+        "Biomarker Testing",
+        "Immunotherapy"
+      ],
+      [
+        "Family History",
+        "Risk Assessment"
+      ],
+      [
+        "Colon Cancer",
+        "Stage 3"
+      ],
+      [
+        "Clinical Trials",
+        "Treatment Team"
+      ],
+      [
+        "Myeloblasts",
+        "White Blood Cells"
+      ],
+      [
+        "Colon",
+        "Polyps"
+      ],
+      [
+        "Bone Marrow",
+        "Leukemia"
+      ],
+      [
+        "Radiation Therapy",
+        "Vaginal Stenosis"
+      ],
+      [
+        "Absorption",
+        "Small Intestine"
+      ],
+      [
+        "Blood Smear",
+        "Blood Test"
+      ],
+      [
+        "Ovarian Cancer",
+        "Surgery"
+      ],
+      [
+        "Cancer",
+        "Lymph Nodes"
+      ],
+      [
+        "Surgical Stage",
+        "Tumor"
+      ],
+      [
+        "Breast",
+        "Testing"
+      ],
+      [
+        "Bone",
+        "Testicular Cancer"
+      ],
+      [
+        "Genetic Testing",
+        "Risk Assessment"
+      ],
+      [
+        "Extent of Cancer",
+        "Imaging"
+      ],
+      [
+        "BCG",
+        "High-grade bladder cancer"
+      ],
+      [
+        "Bone Cancer",
+        "Metastatic Cancer"
+      ],
+      [
+        "Diagnosis",
+        "High-Resolution Anoscopy"
+      ],
+      [
+        "Gliomas",
+        "Prognosis"
+      ],
+      [
+        "Diagnosis",
+        "Testing"
+      ],
+      [
+        "MGZL",
+        "PMBL"
+      ],
+      [
+        "Radiation Therapy",
+        "Supportive Care"
+      ],
+      [
+        "Cisplatin",
+        "Combination regimens"
+      ],
+      [
+        "Bladder Cancer",
+        "Chemotherapy"
+      ],
+      [
+        "Invasive Tumor",
+        "Total Thyroidectomy"
+      ],
+      [
+        "Cancer",
+        "Progression"
+      ],
+      [
+        "Biopsy",
+        "Tissue Sampling"
+      ],
+      [
+        "Patients",
+        "Treatment Counselor"
+      ],
+      [
+        "Pelvic exenter",
+        "Treatment"
+      ],
+      [
+        "Lung Cancer",
+        "Risk Factor"
+      ],
+      [
+        "Cancer Cells",
+        "Radiation Therapy"
+      ],
+      [
+        "Cancer Diagnosis",
+        "FDG-PET/CT"
+      ],
+      [
+        "Biopsy",
+        "Bone Cancer"
+      ],
+      [
+        "Kidney",
+        "Renal Capsule"
+      ],
+      [
+        "Bladder",
+        "Intravesical Therapy"
+      ],
+      [
+        "MRI-TRUS Fusion",
+        "Prostate"
+      ],
+      [
+        "Layers of Stomach Wall",
+        "Stomach Cancer"
+      ],
+      [
+        "Bladder",
+        "Urology"
+      ],
+      [
+        "Determination",
+        "Test Results"
+      ],
+      [
+        "Blood Tests",
+        "Test"
+      ],
+      [
+        "Connective Tissue",
+        "Stage 1"
+      ],
+      [
+        "Burkitt Lymphoma",
+        "Mature B-cell ALL"
+      ],
+      [
+        "Bronchi",
+        "Lung"
+      ],
+      [
+        "Cancer",
+        "Systemic Therapy"
+      ],
+      [
+        "Bladder",
+        "Bladder Layers"
+      ],
+      [
+        "Hematologist",
+        "Treats"
+      ],
+      [
+        "Intravenous Chemotherapy",
+        "Port"
+      ],
+      [
+        "Contrast",
+        "Imaging"
+      ],
+      [
+        "Brain",
+        "Function Areas"
+      ],
+      [
+        "Chemotherapy",
+        "Dose-Dense Chemotherapy"
+      ],
+      [
+        "Cancer",
+        "Peritoneal Washing"
+      ],
+      [
+        "Fertility",
+        "Ovarian Tissue Banking"
+      ],
+      [
+        "Thyroid",
+        "Tumor"
+      ],
+      [
+        "Genetic Analysis",
+        "Test Results"
+      ],
+      [
+        "Prostate Cancer",
+        "Prostate Gland"
+      ],
+      [
+        "Ovarian Cancer",
+        "Tumor"
+      ],
+      [
+        "Anoscopy",
+        "Follow-up"
+      ],
+      [
+        "Cancer",
+        "Metastatic Squamous Cell Skin Cancer"
+      ],
+      [
+        "Bladder",
+        "Metastasis"
+      ],
+      [
+        "Airways",
+        "Alveoli"
+      ],
+      [
+        "Blood Tests",
+        "Lymphoma"
+      ],
+      [
+        "Dental",
+        "Head and Neck Cancer"
+      ],
+      [
+        "Body",
+        "MRI Scan"
+      ],
+      [
+        "Clinical Trials",
+        "Researchers"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Fair Skin"
+      ],
+      [
+        "Fine-Needle Aspiration",
+        "Lesion"
+      ],
+      [
+        "Cervical Cancer",
+        "Treatment Duration"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Systemic Therapy"
+      ],
+      [
+        "Cancer Center",
+        "Organization"
+      ],
+      [
+        "Stage 0",
+        "Urothelial Cells"
+      ],
+      [
+        "Cancer",
+        "Stage 1"
+      ],
+      [
+        "Patient Portal",
+        "Test Results"
+      ],
+      [
+        "Doctor",
+        "Pathologist"
+      ],
+      [
+        "CSCC",
+        "Mohs Surgery"
+      ],
+      [
+        "FAMMM Syndrome",
+        "increases risk of"
+      ],
+      [
+        "Clinical Trials",
+        "Phase 3 Trials"
+      ],
+      [
+        "Blood",
+        "CML"
+      ],
+      [
+        "Metastatic Squamous Cell Skin Cancer",
+        "Systemic Therapy"
+      ],
+      [
+        "Adrenal Gland",
+        "Neuroblastoma"
+      ],
+      [
+        "Chemotherapy",
+        "Distant Cancer Sites"
+      ],
+      [
+        "Bladder Cancer",
+        "Tests"
+      ],
+      [
+        "Colon Cancer",
+        "Microsatellite Instability"
+      ],
+      [
+        "Family History",
+        "Leukemia Predisposition Syndromes"
+      ],
+      [
+        "Cancer",
+        "Prostate"
+      ],
+      [
+        "Ovarian Cancer",
+        "Stages"
+      ],
+      [
+        "Pelvic Exenteration",
+        "Vaginal Reconstruction"
+      ],
+      [
+        "BRCA Genes",
+        "Hereditary Risk"
+      ],
+      [
+        "Imaging",
+        "Radiologist"
+      ],
+      [
+        "Nerve Damage",
+        "Oxaliplatin"
+      ],
+      [
+        "Abnormal Skin Growths",
+        "Imiquimod"
+      ],
+      [
+        "Maintenance Therapy",
+        "PARP Inhibitors"
+      ],
+      [
+        "Endocrine Glands",
+        "Head and Neck"
+      ],
+      [
+        "Colon",
+        "Surgery"
+      ],
+      [
+        "Lymph Nodes",
+        "Surgical Staging"
+      ],
+      [
+        "Distant Sites",
+        "Metastasis"
+      ],
+      [
+        "Anal Cancer",
+        "HPV Cancers Alliance"
+      ],
+      [
+        "Cervix",
+        "Cone Biopsy"
+      ],
+      [
+        "Eye Examination",
+        "Primary CNS Lymphoma"
+      ],
+      [
+        "Depth",
+        "Tumor"
+      ],
+      [
+        "Electrocardiogram",
+        "Heart"
+      ],
+      [
+        "Medical history",
+        "Signs and symptoms"
+      ],
+      [
+        "Radical Trachelectomy",
+        "Stage 1B1"
+      ],
+      [
+        "Biomarker",
+        "Targeted Treatments"
+      ],
+      [
+        "Thyroid Gland",
+        "Thyroid Nodule"
+      ],
+      [
+        "DNA Mutations",
+        "Targeted Therapies"
+      ],
+      [
+        "Biopsy",
+        "Ovarian or Uterine Cancer"
+      ],
+      [
+        "Lymphoblasts",
+        "T-ALL"
+      ],
+      [
+        "Cancer Cells",
+        "Inflammatory Breast Cancer"
+      ],
+      [
+        "Adrenal Gland",
+        "Hereditary Conditions"
+      ],
+      [
+        "Chromosome",
+        "Gene"
+      ],
+      [
+        "Para-aortic Lymph Nodes",
+        "Surgical Staging"
+      ],
+      [
+        "Basal Cell Skin Cancer",
+        "Sun"
+      ],
+      [
+        "Follow-Up",
+        "after_treatment"
+      ],
+      [
+        "Biopsy",
+        "Biopsy of Metastasis"
+      ],
+      [
+        "Tumor",
+        "Tumor Grade"
+      ],
+      [
+        "Diagnostic Tests",
+        "Prostate Cancer"
+      ],
+      [
+        "Anal Cancer",
+        "HPV"
+      ],
+      [
+        "Chemotherapy",
+        "Healthy Cells"
+      ],
+      [
+        "Genetic Syndromes",
+        "Skin Cancer"
+      ],
+      [
+        "Biomarker Testing",
+        "Test"
+      ],
+      [
+        "Cervical Cancer",
+        "Chemotherapy"
+      ],
+      [
+        "Levoxyl",
+        "Thyroid-Stimulating Hormone"
+      ],
+      [
+        "LVSI",
+        "Stage 1A1"
+      ],
+      [
+        "Alveoli",
+        "Lung"
+      ],
+      [
+        "Patients",
+        "Questions to Ask"
+      ],
+      [
+        "Chemotherapy",
+        "Thyroid Cancers"
+      ],
+      [
+        "Cancer",
+        "Stage 3"
+      ],
+      [
+        "Cancer",
+        "PET Scan"
+      ],
+      [
+        "Clear Cell RCC",
+        "Histology"
+      ],
+      [
+        "Post-Surgical",
+        "Thyroid Hormone Replacement Therapy"
+      ],
+      [
+        "Cancer Risk",
+        "Vaping"
+      ],
+      [
+        "PSMA-PET Scan",
+        "Tracers"
+      ],
+      [
+        "Melanoma",
+        "NCCN Patient Guides for Cancer"
+      ],
+      [
+        "Sacituzumab Govitecan-Hziy",
+        "Targeted Therapy"
+      ],
+      [
+        "Experience and Procedures",
+        "Questions for Doctors"
+      ],
+      [
+        "Cancer Cells",
+        "Metastasis"
+      ],
+      [
+        "Lymph Node Exam",
+        "recurrence"
+      ],
+      [
+        "Biomarker Testing",
+        "Prostate Cancer"
+      ],
+      [
+        "Cancer",
+        "Treatment"
+      ],
+      [
+        "Hearing Loss",
+        "Tumors in Head and Neck"
+      ],
+      [
+        "Biomarkers",
+        "Guidance"
+      ],
+      [
+        "Care Team",
+        "Thoracic Radiologist"
+      ],
+      [
+        "Clinical Trial Eligibility",
+        "Treatment Risks and Benefits"
+      ],
+      [
+        "Indiana Pouch",
+        "Indiana University"
+      ],
+      [
+        "Glioblastomas",
+        "Gliomas"
+      ],
+      [
+        "Metastasis",
+        "Throat Cancer"
+      ],
+      [
+        "Anal Cancer",
+        "Anal Dysplasia"
+      ],
+      [
+        "Follow-up",
+        "MRI"
+      ],
+      [
+        "Diagnosis",
+        "Test Results"
+      ],
+      [
+        "Distant Lymph Nodes",
+        "Esophageal Cancer"
+      ],
+      [
+        "Biopsy",
+        "Skin Lesion"
+      ],
+      [
+        "Actinic Keratoses",
+        "Skin Cancer"
+      ],
+      [
+        "Grade",
+        "Low-grade Gliomas"
+      ],
+      [
+        "Options",
+        "Treatment"
+      ],
+      [
+        "5-FU",
+        "Chemotherapy"
+      ],
+      [
+        "Support Websites",
+        "people"
+      ],
+      [
+        "CLL, SLL",
+        "Lymph Nodes"
+      ],
+      [
+        "Blast phase CML",
+        "CML"
+      ],
+      [
+        "Cancer",
+        "Multidisciplinary Care Team"
+      ],
+      [
+        "Location",
+        "Perianal Region"
+      ],
+      [
+        "Diagnostic",
+        "Sentinel Lymph Node Biopsy"
+      ],
+      [
+        "Blood Tests",
+        "Medical Tests"
+      ],
+      [
+        "NCCN Guidelines for Patients",
+        "NCCN.org"
+      ],
+      [
+        "Adrenal Tumors",
+        "Blood Tests"
+      ],
+      [
+        "Blood Tests",
+        "Testing for ALL"
+      ],
+      [
+        "Blood",
+        "Liver"
+      ],
+      [
+        "Diagnosis",
+        "Glioma"
+      ],
+      [
+        "CSCC",
+        "Imaging Scans"
+      ],
+      [
+        "Nicotine",
+        "Tobacco"
+      ],
+      [
+        "Antimetabolites",
+        "Inhibit"
+      ],
+      [
+        "Lymph nodes",
+        "Metastatic"
+      ],
+      [
+        "Organ Transplant",
+        "Weakened Immune System"
+      ],
+      [
+        "Catheter",
+        "Intraperitoneal (IP) Chemotherapy"
+      ],
+      [
+        "Hormonal",
+        "SERMs"
+      ],
+      [
+        "Concept",
+        "Targeted Therapy"
+      ],
+      [
+        "Cervical Cancer",
+        "FIGO System"
+      ],
+      [
+        "Genetic abnormality",
+        "Lymphocytes"
+      ],
+      [
+        "Risk Factors",
+        "Smokers"
+      ],
+      [
+        "BRCA Genes",
+        "Cancer Risk"
+      ],
+      [
+        "Adrenal Tumor",
+        "Benign"
+      ],
+      [
+        "Care Team",
+        "Image"
+      ],
+      [
+        "Cell damage",
+        "Lactate Dehydrogenase"
+      ],
+      [
+        "BRCA2",
+        "Breast Cancer"
+      ],
+      [
+        "Common sites for",
+        "Lymph Nodes"
+      ],
+      [
+        "Blood",
+        "Urinalysis"
+      ],
+      [
+        "Locally advanced",
+        "Stage 2"
+      ],
+      [
+        "Grade",
+        "Tumor"
+      ],
+      [
+        "Genetic Testing",
+        "Prostate"
+      ],
+      [
+        "Biopsy",
+        "Neurosurgeon"
+      ],
+      [
+        "Biomarker Testing",
+        "Tumor Profiling"
+      ],
+      [
+        "Cancer",
+        "Imaging Tests"
+      ],
+      [
+        "Patients",
+        "Test Results"
+      ],
+      [
+        "Impaired immune system",
+        "Primary CNS lymphoma"
+      ],
+      [
+        "Genetic",
+        "Inheritance"
+      ],
+      [
+        "Biopsy",
+        "Gleason Pattern"
+      ],
+      [
+        "Cancer",
+        "Grade"
+      ],
+      [
+        "Airways",
+        "Lung Cancer"
+      ],
+      [
+        "Bladder",
+        "Urothelial Cells"
+      ],
+      [
+        "Bladder",
+        "Flexible Cystoscope"
+      ],
+      [
+        "Clinical Trial",
+        "Research Team"
+      ],
+      [
+        "Epithelium",
+        "Oral mucosa"
+      ],
+      [
+        "Ovarian Cancer",
+        "Stage"
+      ],
+      [
+        "Fertility Preservation",
+        "Treatment"
+      ],
+      [
+        "p16 (HPV)",
+        "used in"
+      ],
+      [
+        "Enfortumab Vedotin-Ejfv",
+        "Targeted Therapy"
+      ],
+      [
+        "Ovarian Cancer",
+        "Stage 1A"
+      ],
+      [
+        "ALL",
+        "Lymphoid Progenitor Cells"
+      ],
+      [
+        "Low-risk or High-risk Cancer",
+        "Surgery"
+      ],
+      [
+        "Levothyroxine",
+        "Thyroid"
+      ],
+      [
+        "Cells",
+        "Small Cell Lung Cancer"
+      ],
+      [
+        "Biopsy",
+        "Bone Marrow"
+      ],
+      [
+        "Post-surgical or inoperable cancers",
+        "Radiation Therapy"
+      ],
+      [
+        "BCR::ABL",
+        "CML"
+      ],
+      [
+        "Histologic Analysis",
+        "Tumor"
+      ]
+    ],
+    "count": 2300,
+    "update_time": 1764561119,
+    "_id": "doc-3d7a4f05339f0e3f3870b407d21d9c8a"
+  }
+}
