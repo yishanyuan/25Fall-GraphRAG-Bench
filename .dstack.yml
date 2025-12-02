@@ -1,0 +1,33 @@
+type: task
+name: fast-graphrag-qwen3-medical-novel
+
+repos:
+  - https://github.com/yishanyuan/25Fall-GraphRAG-Bench
+
+python: 3.12
+
+env:
+  - OPENAI_BASE_URL=http://127.0.0.1:11434/v1
+  - OPENAI_API_KEY=ollama
+  - MODEL_NAME=qwen3:8b
+  - EMBED_MODEL=nomic-embed-text
+
+commands:
+  - curl -fsSL https://ollama.ai/install.sh | sh
+  - nohup ollama serve > /tmp/ollama.log 2>&1 &
+  - sleep 60
+  - ollama pull qwen3:8b
+  - ollama pull nomic-embed-text
+  - cd /workflow
+  - uv pip install fast-graphrag datasets python-dotenv tqdm sentence-transformers pyarrow openai
+  - cd /workflow
+  - python 395-scripts/fastgraphrag/qwen3_8b/fast-graphrag_ollama.py --subset medical --base_dir ./Examples/graphrag_qwen3_8b_medical
+  - cd /workflow
+  - python 395-scripts/fastgraphrag/qwen3_8b/fast-graphrag_ollama.py --subset novel --base_dir ./Examples/graphrag_qwen3_8b_novel
+
+resources:
+  gpu: 24GB..80GB:1
+  cpu: 0..8
+  memory: 48GB..
+  disk: 100GB
+  shm_size: 24GB
