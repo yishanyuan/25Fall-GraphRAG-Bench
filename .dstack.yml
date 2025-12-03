@@ -1,5 +1,5 @@
 type: task
-name: fast-graphrag-qwen3-medical-novel
+name: fast-graphrag-gpt-oss-20b-medical-novel
 
 repos:
   - https://github.com/yishanyuan/25Fall-GraphRAG-Bench
@@ -7,23 +7,22 @@ repos:
 python: 3.12
 
 env:
-  - OPENAI_BASE_URL=http://127.0.0.1:11434/v1
-  - OPENAI_API_KEY=ollama
-  - MODEL_NAME=qwen3:8b
-  - EMBED_MODEL=nomic-embed-text
+  OPENAI_BASE_URL: "http://127.0.0.1:11434/v1"
+  OPENAI_API_KEY: "ollama"
+  LLM_MODEL: "gpt-oss:20b"
+  EMBED_MODEL: "nomic-embed-text"
+  CONCURRENT_TASK_LIMIT: "2"
 
 commands:
-  - curl -fsSL https://ollama.ai/install.sh | sh
-  - nohup ollama serve > /tmp/ollama.log 2>&1 &
+  - curl -fsSL https://ollama.ai/install.sh -o /tmp/ollama_install.sh
+  - sh /tmp/ollama_install.sh
   - sleep 60
-  - ollama pull qwen3:8b
+  - ollama pull gpt-oss:20b
   - ollama pull nomic-embed-text
   - cd /workflow
   - uv pip install fast-graphrag datasets python-dotenv tqdm sentence-transformers pyarrow openai
   - cd /workflow
-  - python 395-scripts/fastgraphrag/qwen3_8b/fast-graphrag_ollama.py --subset medical --base_dir ./Examples/graphrag_qwen3_8b_medical
-  - cd /workflow
-  - python 395-scripts/fastgraphrag/qwen3_8b/fast-graphrag_ollama.py --subset novel --base_dir ./Examples/graphrag_qwen3_8b_novel
+  - python 395-scripts/fastgraphrag/gpt-oss-20b/fast-graphrag_ollama.py --subset medical --base_dir ./Examples/graphrag_gpt-oss-20b_medical
 
 resources:
   gpu: 24GB..80GB:1

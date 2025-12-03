@@ -143,8 +143,8 @@ def process_corpus(
 def main():
     parser = argparse.ArgumentParser(description="FastGraphRAG with Ollama")
     parser.add_argument("--subset", required=True, choices=["medical", "novel"])
-    parser.add_argument("--base_dir", default="./Examples/graphrag_qwen3_8b")
-    parser.add_argument("--model_name", default=os.getenv("MODEL_NAME", "qwen3:8b"))
+    parser.add_argument("--base_dir", default="./Examples/graphrag_gpt-oss-20b")
+    parser.add_argument("--model_name", default=os.getenv("MODEL_NAME", "gpt-oss:20b"))
     parser.add_argument("--embed_model_path", default=os.getenv("EMBED_MODEL", "nomic-embed-text"))
     parser.add_argument("--sample", type=int, default=None)
     parser.add_argument(
