@@ -1,19 +1,19 @@
 {
   "Fact Retrieval": {
-    "rouge_score": 0.2601,
-    "answer_correctness": 0.1500478100128901
+    "rouge_score": 0.3318463747384693,
+    "answer_correctness": 0.5170578995545213
   },
   "Complex Reasoning": {
-    "rouge_score": 0.4483,
-    "answer_correctness": 0.0600120233711203
+    "rouge_score": 0.2169339219208885,
+    "answer_correctness": 0.5260881870535805
   },
   "Contextual Summarize": {
-    "rouge_score": 0.4755,
-    "answer_correctness": 0.4755555555555555
+    "answer_correctness": 0.6944620834766435,
+    "coverage_score": 0.4579237807998254
   },
   "Creative Generation": {
-    "rouge_score": 0.49166666666666664,
-    "answer_correctness": 0.7530820105820106,
-    "faithfulness": 0.27011914154221843
+    "answer_correctness": 0.5319673200295605,
+    "coverage_score": 0.29599963563867304,
+    "faithfulness": 0.25211914154221843
   }
 }
