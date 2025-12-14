@@ -3,7 +3,6 @@ import os
 import logging
 import argparse
 import json
-import sys
 from typing import Dict, List
 from dotenv import load_dotenv
 from datasets import load_dataset
@@ -13,26 +12,19 @@ from transformers import AutoTokenizer, AutoModel
 from tqdm import tqdm
 from Evaluation.llm.ollama_client import OllamaClient, OllamaWrapper
 
-# --- Windows Console Encoding Fix ---
-if sys.platform == "win32":
-    try:
-        sys.stdout.reconfigure(encoding='utf-8')
-    except Exception:
-        pass
-
 # Load environment variables
 load_dotenv()
 
-# --- Correct Configuration for MEDICAL Domain ---
-DOMAIN = "Analyze this medical text. Identify diseases, symptoms, treatments, drugs, biological processes, and anatomical structures. Focus on causal relationships, definitions, and clinical guidelines."
+# Configuration constants
+DOMAIN = "Analyze this story and identify the characters. Focus on how they interact with each other, the locations they explore, and their relationships."
 EXAMPLE_QUERIES = [
-    "What are the primary symptoms of Basal Cell Carcinoma?",
-    "How does the immune system react to viral infections?",
-    "What is the recommended treatment for type 2 diabetes?",
-    "Describe the anatomical structure of the human heart.",
-    "What are the side effects of this medication?"
+    "What is the significance of Christmas Eve in A Christmas Carol?",
+    "How does the setting of Victorian London contribute to the story's themes?",
+    "Describe the chain of events that leads to Scrooge's transformation.",
+    "How does Dickens use the different spirits (Past, Present, and Future) to guide Scrooge?",
+    "Why does Dickens choose to divide the story into \"staves\" rather than chapters?"
 ]
-ENTITY_TYPES = ["Disease", "Symptom", "Drug", "Treatment", "Anatomy", "Procedure", "RiskFactor", "CellType", "BiologicalProcess"]
+ENTITY_TYPES = ["Character", "Animal", "Place", "Object", "Activity", "Event"]
 
 def group_questions_by_source(question_list: List[dict]) -> Dict[str, List[dict]]:
     """Group questions by their source"""
@@ -57,7 +49,7 @@ def process_corpus(
     sample: int
 ):
     """Process a single corpus: index it and answer its questions"""
-    logging.info(f"Processing corpus: {corpus_name}")
+    logging.info(f"[INFO] Processing corpus: {corpus_name}")
     
     # Prepare output directory
     output_dir = f"./results/fast-graphrag/{corpus_name}"
@@ -66,27 +58,34 @@ def process_corpus(
     
     # Initialize embedding model
     try:
-        embedding_tokenizer = AutoTokenizer.from_pretrained(embed_model_path)
-        embedding_model = AutoModel.from_pretrained(embed_model_path)
-        logging.info(f"Loaded embedding model: {embed_model_path}")
+        embedding_tokenizer = AutoTokenizer.from_pretrained(embed_model_path, trust_remote_code=True)
+        
+        # Explicitly load model to CPU and disable memory optimization to prevent "meta tensor" error
+        embedding_model = AutoModel.from_pretrained(
+            embed_model_path, 
+            trust_remote_code=True,
+            low_cpu_mem_usage=False,
+            device_map=None
+        ).to("cpu")
+        
+        embedding_model.eval()
+        logging.info(f"[SUCCESS] Loaded embedding model: {embed_model_path}")
     except Exception as e:
-        logging.error(f"Failed to load embedding model: {e}")
+        logging.error(f"[ERROR] Failed to load embedding model: {e}")
         return
     
     # Initialize LLM service based on mode
     if mode == "ollama":
-        # Create Ollama client
         ollama_client = OllamaClient(base_url=llm_base_url)
         llm_service = OllamaWrapper(ollama_client, model_name)
-        logging.info(f"Using Ollama LLM service: {model_name} at {llm_base_url}")
+        logging.info(f"[SUCCESS] Using Ollama LLM service: {model_name} at {llm_base_url}")
     else:
-        # Use OpenAI-compatible service
         llm_service = OpenAILLMService(
             model=model_name,
             base_url=llm_base_url,
             api_key=llm_api_key,
         )
-        logging.info(f"Using OpenAI-compatible LLM service: {model_name} at {llm_base_url}")
+        logging.info(f"[SUCCESS] Using OpenAI-compatible LLM service: {model_name} at {llm_base_url}")
 
     # Initialize GraphRAG
     grag = GraphRAG(
@@ -99,52 +98,46 @@ def process_corpus(
             embedding_service=HuggingFaceEmbeddingService(
                 model=embedding_model,
                 tokenizer=embedding_tokenizer,
-                # Set embedding dim for all-MiniLM-L6-v2
-                embedding_dim=384, 
+                embedding_dim=1024,
                 max_token_size=8192
             ),
         ),
     )
     
     # Index the corpus content
-    logging.info(f"Indexing content (this may take a while)...")
-    grag.insert(context)
-    logging.info(f"Indexed corpus: {corpus_name} ({len(context.split())} words)")
-    
+    try:
+        grag.insert(context)
+        logging.info(f"[SUCCESS] Indexed corpus: {corpus_name} ({len(context.split())} words)")
+    except Exception as e:
+        logging.error(f"[ERROR] Error indexing corpus {corpus_name}: {e}")
+        return
+
     # Get questions for this corpus
     corpus_questions = questions.get(corpus_name, [])
     if not corpus_questions:
-        logging.warning(f"No questions found for corpus: {corpus_name}")
+        logging.warning(f"[WARNING] No questions found for corpus: {corpus_name}")
         return
     
     # Sample questions if requested
     if sample and sample < len(corpus_questions):
         corpus_questions = corpus_questions[:sample]
     
-    logging.info(f"Found {len(corpus_questions)} questions for {corpus_name}")
+    logging.info(f"[INFO] Found {len(corpus_questions)} questions for {corpus_name}")
     
     # Process questions
     results = []
-    for q in tqdm(corpus_questions, desc=f"Answering questions for {corpus_name}"):
+    
+    for i, q in enumerate(tqdm(corpus_questions, desc=f"Answering {corpus_name}")):
         try:
             # Execute query
             response = grag.query(q["question"])
-            
-            # Capture full response dict for contexts
-            response_dict = response.to_dict() 
-            
-            context_chunks = response_dict['context']['chunks']
+            context_chunks = response.to_dict()['context']['chunks']
             contexts = [item[0]["content"] for item in context_chunks]
             
-            # Get the clean text attribute for the final answer
-            try:
-                # Preferred method for clean text
-                predicted_answer = response.response.text
-            except AttributeError:
-                # Fallback & CRITICAL FIX: Convert TAnswer object to string to avoid JSON serialization error
-                predicted_answer = str(response.response) 
+            # FIX: Convert TAnswer object to string to avoid JSON serialization error
+            predicted_answer = str(response.response)
 
-            # Collect results (structure as requested, no debug data)
+            # Collect results
             results.append({
                 "id": q["id"],
                 "question": q["question"],
@@ -156,23 +149,24 @@ def process_corpus(
                 "ground_truth": q.get("answer", "")
             })
 
-            # Periodic auto-save to prevent data loss (save every 10 questions)
-            if len(results) % 10 == 0:
+            # Save checkpoint every 10 samples
+            if (i + 1) % 10 == 0:
                 with open(output_path, "w", encoding="utf-8") as f:
                     json.dump(results, f, indent=2, ensure_ascii=False)
-                
+
         except Exception as e:
-            logging.error(f"Error processing question {q.get('id')}: {e}")
+            # FIX: Removed emoji from log to prevent UnicodeEncodeError on Windows
+            logging.error(f"[ERROR] processing question {q.get('id')}: {e}")
             results.append({
                 "id": q["id"],
                 "error": str(e)
             })
     
-    # Final save after loop completes
+    # Final Save
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
     
-    logging.info(f"Saved {len(results)} predictions to: {output_path}")
+    logging.info(f"[SUCCESS] Saved FINAL {len(results)} predictions to: {output_path}")
 
 def main():
     # Define subset paths
@@ -198,9 +192,9 @@ def main():
     # Model configuration
     parser.add_argument("--mode", choices=["API", "ollama"], default="API",
                         help="Use API or ollama for LLM")
-    parser.add_argument("--model_name", default="qwen2.5-14b-instruct", 
+    parser.add_argument("--model_name", default="4.1nano", 
                         help="LLM model identifier")
-    parser.add_argument("--embed_model_path", default="/home/xzs/data/model/bge-large-en-v1.5", 
+    parser.add_argument("--embed_model_path", default="BAAI/bge-large-en-v1.5", 
                         help="Path to embedding model directory")
     parser.add_argument("--sample", type=int, default=None, 
                         help="Number of questions to sample per corpus")
@@ -223,11 +217,11 @@ def main():
         ]
     )
     
-    logging.info(f"Starting GraphRAG processing for subset: {args.subset}")
+    logging.info(f"[START] GraphRAG processing for subset: {args.subset}")
     
     # Validate subset
     if args.subset not in SUBSET_PATHS:
-        logging.error(f"Invalid subset: {args.subset}. Valid options: {list(SUBSET_PATHS.keys())}")
+        logging.error(f"[ERROR] Invalid subset: {args.subset}. Valid options: {list(SUBSET_PATHS.keys())}")
         return
     
     # Get file paths for this subset
@@ -237,7 +231,7 @@ def main():
     # Handle API key security
     api_key = args.llm_api_key or os.getenv("LLM_API_KEY", "")
     if not api_key:
-        logging.warning("No API key provided! Requests may fail.")
+        logging.warning("[WARNING] No API key provided! Requests may fail.")
     
     # Create workspace directory
     os.makedirs(args.base_dir, exist_ok=True)
@@ -251,15 +245,15 @@ def main():
                 "corpus_name": item["corpus_name"],
                 "context": item["context"]
             })
-        logging.info(f"Loaded corpus with {len(corpus_data)} documents from {corpus_path}")
+        logging.info(f"[INFO] Loaded corpus with {len(corpus_data)} documents from {corpus_path}")
     except Exception as e:
-        logging.error(f"Failed to load corpus: {e}")
+        logging.error(f"[ERROR] Failed to load corpus: {e}")
         return
     
-    # Sample corpus data if requested
-    if args.sample:
-        corpus_data = corpus_data[:1]
-    
+    # Sample corpus data logic
+    if args.sample and args.sample < len(corpus_data):
+         pass 
+
     # Load question data
     try:
         questions_dataset = load_dataset("parquet", data_files=questions_path, split="train")
@@ -274,16 +268,17 @@ def main():
                 "evidence": item["evidence"]
             })
         grouped_questions = group_questions_by_source(question_data)
-        logging.info(f"Loaded questions with {len(question_data)} entries from {questions_path}")
+        logging.info(f"[INFO] Loaded questions with {len(question_data)} entries from {questions_path}")
     except Exception as e:
-        logging.error(f"Failed to load questions: {e}")
+        logging.error(f"[ERROR] Failed to load questions: {e}")
         return
     
-    # Process each corpus concurrently using asyncio + threads
-    async def _run_all():
-        tasks = []
-        for item in corpus_data:
-            tasks.append(asyncio.to_thread(
+    # Semaphore to prevent 502 Bad Gateway and CPU overload
+    semaphore = asyncio.Semaphore(1) 
+
+    async def _run_corpus_safe(item):
+        async with semaphore:
+            await asyncio.to_thread(
                 process_corpus,
                 item["corpus_name"],
                 item["context"],
@@ -295,11 +290,16 @@ def main():
                 api_key,
                 grouped_questions,
                 args.sample,
-            ))
+            )
+
+    async def _run_all():
+        tasks = [_run_corpus_safe(item) for item in corpus_data]
+        
+        # Allow partial failures
         results = await asyncio.gather(*tasks, return_exceptions=True)
         for r in results:
             if isinstance(r, Exception):
-                logging.exception(f"Task failed: {r}")
+                logging.exception(f"[ERROR] Task failed: {r}")
 
     asyncio.run(_run_all())
 
